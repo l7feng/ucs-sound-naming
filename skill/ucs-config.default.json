@@ -1,0 +1,80 @@
+{
+  "version": "1.0",
+  "description": "ucs-sound-naming 标准配置（default 不可修改，用于校验与兜底）。用户习惯差异请复制为 ucs-config.local.json 后在本地覆盖，缺失项回退本文件。",
+  "root": {
+    "type": "auto",
+    "envVar": "UCS_ROOT",
+    "fallbackPaths": [
+      "D:/Ai_Project/UCS",
+      "~/UCS",
+      "~/Documents/UCS"
+    ]
+  },
+  "dirs": {
+    "lists": "命名清单",
+    "logs": "日志",
+    "rules": "规则更新"
+  },
+  "listFile": {
+    "enabled": true,
+    "template": "UCS_命名清单_<Agent>_<库名>.txt",
+    "format": "dual-txt",
+    "separator": "\\t",
+    "headerRequired": true,
+    "headerFields": [
+      "音效库",
+      "文件总数",
+      "生成日期",
+      "翻译Agent",
+      "CreatorID | SourceID",
+      "说明"
+    ]
+  },
+  "logFile": {
+    "template": "<Agent>_YYYY-MM-DD.md"
+  },
+  "rulesDoc": {
+    "template": "<文档名>_v<X>.<Y>.md",
+    "keepHistory": true
+  },
+  "naming": {
+    "zhWrap": "【（分类）关键词1，关键词2】",
+    "keepCatidPrefix": true,
+    "catidPosition": "prefix",
+    "keywordCount": "2-5（推荐；英文为 UCS 命名时中英文跟随）",
+    "enFormat": "CatID_FXName_CreatorID_SourceID",
+    "commaStyle": "fullwidth"
+  },
+  "folderTranslate": {
+    "style": "【中文翻译】英文原名"
+  },
+  "attachedFiles": {
+    "action": "delete",
+    "extensions": [
+      ".txt",
+      ".pdf",
+      ".jpg",
+      ".png",
+      ".html",
+      ".htm",
+      ".md"
+    ],
+    "names": [
+      "README"
+    ],
+    "dryRunBeforeDelete": true,
+    "unknownOrigin": "待确认"
+  },
+  "scanExtensions": [
+    ".wav",
+    ".mp3",
+    ".flac",
+    ".aif",
+    ".ogg"
+  ],
+  "redLine": [
+    "ucs-zh-en.tsv 对照表不可自定义",
+    "known-conflicts.md 矛盾裁决不可自定义",
+    "UCS CatID 分类本体不可自定义"
+  ]
+}
