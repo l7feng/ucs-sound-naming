@@ -1,0 +1,5033 @@
+{
+  "matched": [
+    {
+      "path": "乐句",
+      "new_name": "【乐句】Musical",
+      "english": "Musical",
+      "info": "Category: MUSICAL"
+    },
+    {
+      "path": "人",
+      "new_name": "【人】Human",
+      "english": "Human",
+      "info": "Category: HUMAN"
+    },
+    {
+      "path": "人群",
+      "new_name": "【人群】Crowds",
+      "english": "Crowds",
+      "info": "Category: CROWDS"
+    },
+    {
+      "path": "冰",
+      "new_name": "【冰】Ice",
+      "english": "Ice",
+      "info": "Category: ICE"
+    },
+    {
+      "path": "动物",
+      "new_name": "【动物】Animals",
+      "english": "Animals",
+      "info": "Category: ANIMALS"
+    },
+    {
+      "path": "化学",
+      "new_name": "【化学】Chemicals",
+      "english": "Chemicals",
+      "info": "Category: CHEMICALS"
+    },
+    {
+      "path": "卡通",
+      "new_name": "【卡通】Cartoon",
+      "english": "Cartoon",
+      "info": "Category: CARTOON"
+    },
+    {
+      "path": "号角",
+      "new_name": "【号角】Horns",
+      "english": "Horns",
+      "info": "Category: HORNS"
+    },
+    {
+      "path": "呼呼声",
+      "new_name": "【呼呼声】Whoosh",
+      "english": "Whoosh",
+      "info": "CatShort-level: WHSH"
+    },
+    {
+      "path": "哨音",
+      "new_name": "【哨音】Whistles",
+      "english": "Whistles",
+      "info": "Category: WHISTLES"
+    },
+    {
+      "path": "嗖嗖声",
+      "new_name": "【嗖嗖声】Swish",
+      "english": "Swish",
+      "info": "CatShort-level: SWSH"
+    },
+    {
+      "path": "器具",
+      "new_name": "【器具】Equipment",
+      "english": "Equipment",
+      "info": "Category: EQUIPMENT"
+    },
+    {
+      "path": "地热",
+      "new_name": "【地热】Geothermal",
+      "english": "Geothermal",
+      "info": "Category: GEOTHERMAL"
+    },
+    {
+      "path": "塑料",
+      "new_name": "【塑料】Plastic",
+      "english": "Plastic",
+      "info": "Category: PLASTIC"
+    },
+    {
+      "path": "声音设计",
+      "new_name": "【声音设计】Designed",
+      "english": "Designed",
+      "info": "Category: DESIGNED"
+    },
+    {
+      "path": "天气",
+      "new_name": "【天气】Weather",
+      "english": "Weather",
+      "info": "Multi-CatShort, Cat=WEATHER"
+    },
+    {
+      "path": "子弹",
+      "new_name": "【子弹】Bullets",
+      "english": "Bullets",
+      "info": "Category: BULLETS"
+    },
+    {
+      "path": "小船",
+      "new_name": "【小船】Boats",
+      "english": "Boats",
+      "info": "手动映射: 小船 -> Boats (不在 UCS 表，归入 BOATS)"
+    },
+    {
+      "path": "岩石",
+      "new_name": "【岩石】Rocks",
+      "english": "Rocks",
+      "info": "Category: ROCKS"
+    },
+    {
+      "path": "工具",
+      "new_name": "【工具】Tools",
+      "english": "Tools",
+      "info": "Category: TOOLS"
+    },
+    {
+      "path": "布料",
+      "new_name": "【布料】Cloth",
+      "english": "Cloth",
+      "info": "Category: CLOTH"
+    },
+    {
+      "path": "归档",
+      "new_name": "【归档】Archived",
+      "english": "Archived",
+      "info": "Multi-CatShort, Cat=ARCHIVED"
+    },
+    {
+      "path": "打斗",
+      "new_name": "【打斗】Fight",
+      "english": "Fight",
+      "info": "Category: FIGHT"
+    },
+    {
+      "path": "抽屉",
+      "new_name": "【抽屉】Drawers",
+      "english": "Drawers",
+      "info": "Category: DRAWERS"
+    },
+    {
+      "path": "拆除",
+      "new_name": "【拆除】Destruction",
+      "english": "Destruction",
+      "info": "Category: DESTRUCTION"
+    },
+    {
+      "path": "拟音",
+      "new_name": "【拟音】Foley",
+      "english": "Foley",
+      "info": "Category: FOLEY"
+    },
+    {
+      "path": "提示音",
+      "new_name": "【提示音】Beeps",
+      "english": "Beeps",
+      "info": "CatShort GENERAL: BEEP -> BEEPS"
+    },
+    {
+      "path": "放屁",
+      "new_name": "【放屁】Farts",
+      "english": "Farts",
+      "info": "Category: FARTS"
+    },
+    {
+      "path": "木头",
+      "new_name": "【木头】Wood",
+      "english": "Wood",
+      "info": "Category: WOOD"
+    },
+    {
+      "path": "机器",
+      "new_name": "【机器】Machines",
+      "english": "Machines",
+      "info": "Category: MACHINES"
+    },
+    {
+      "path": "机器人",
+      "new_name": "【机器人】Robots",
+      "english": "Robots",
+      "info": "Category: ROBOTS"
+    },
+    {
+      "path": "机械",
+      "new_name": "【机械】Mechanical",
+      "english": "Mechanical",
+      "info": "Category: MECHANICAL"
+    },
+    {
+      "path": "枪支",
+      "new_name": "【枪支】Guns",
+      "english": "Guns",
+      "info": "手动映射: 枪支 -> Guns (UCS 表中为'枪炮')"
+    },
+    {
+      "path": "枪炮",
+      "new_name": "【枪炮】Guns",
+      "english": "Guns",
+      "info": "Category: GUNS"
+    },
+    {
+      "path": "植物",
+      "new_name": "【植物】Vegetation",
+      "english": "Vegetation",
+      "info": "Category: VEGETATION"
+    },
+    {
+      "path": "橡胶",
+      "new_name": "【橡胶】Rubber",
+      "english": "Rubber",
+      "info": "Category: RUBBER"
+    },
+    {
+      "path": "武器",
+      "new_name": "【武器】Weapons",
+      "english": "Weapons",
+      "info": "Category: WEAPONS"
+    },
+    {
+      "path": "气体",
+      "new_name": "【气体】Air",
+      "english": "Air",
+      "info": "Category: AIR"
+    },
+    {
+      "path": "水",
+      "new_name": "【水】Water",
+      "english": "Water",
+      "info": "Category: WATER"
+    },
+    {
+      "path": "沙土",
+      "new_name": "【沙土】Dirt & Sand",
+      "english": "Dirt & Sand",
+      "info": "Category: DIRT & SAND"
+    },
+    {
+      "path": "液体与流体",
+      "new_name": "【液体与流体】Liquid & Mud",
+      "english": "Liquid & Mud",
+      "info": "Category: LIQUID & MUD"
+    },
+    {
+      "path": "游戏",
+      "new_name": "【游戏】Games",
+      "english": "Games",
+      "info": "Category: GAMES"
+    },
+    {
+      "path": "激光",
+      "new_name": "【激光】Lasers",
+      "english": "Lasers",
+      "info": "Category: LASERS"
+    },
+    {
+      "path": "火",
+      "new_name": "【火】Fire",
+      "english": "Fire",
+      "info": "Category: FIRE"
+    },
+    {
+      "path": "火车",
+      "new_name": "【火车】Trains",
+      "english": "Trains",
+      "info": "Category: TRAINS"
+    },
+    {
+      "path": "烟花",
+      "new_name": "【烟花】Fireworks",
+      "english": "Fireworks",
+      "info": "Category: FIREWORKS"
+    },
+    {
+      "path": "爆炸",
+      "new_name": "【爆炸】Explosions",
+      "english": "Explosions",
+      "info": "Category: EXPLOSIONS"
+    },
+    {
+      "path": "物件",
+      "new_name": "【物件】Objects",
+      "english": "Objects",
+      "info": "Category: OBJECTS"
+    },
+    {
+      "path": "玩具",
+      "new_name": "【玩具】Toys",
+      "english": "Toys",
+      "info": "Category: TOYS"
+    },
+    {
+      "path": "环境",
+      "new_name": "【环境】Ambience",
+      "english": "Ambience",
+      "info": "Category: AMBIENCE"
+    },
+    {
+      "path": "玻璃",
+      "new_name": "【玻璃】Glass",
+      "english": "Glass",
+      "info": "Category: GLASS"
+    },
+    {
+      "path": "生物",
+      "new_name": "【生物】Creatures",
+      "english": "Creatures",
+      "info": "Category: CREATURES"
+    },
+    {
+      "path": "用户界面",
+      "new_name": "【用户界面】User Interface",
+      "english": "User Interface",
+      "info": "Category: USER INTERFACE"
+    },
+    {
+      "path": "电流",
+      "new_name": "【电流】Electricity",
+      "english": "Electricity",
+      "info": "Category: ELECTRICITY"
+    },
+    {
+      "path": "电脑",
+      "new_name": "【电脑】Computers",
+      "english": "Computers",
+      "info": "Category: COMPUTERS"
+    },
+    {
+      "path": "皮革",
+      "new_name": "【皮革】Leather",
+      "english": "Leather",
+      "info": "Category: LEATHER"
+    },
+    {
+      "path": "科幻",
+      "new_name": "【科幻】Scifi",
+      "english": "Scifi",
+      "info": "Category: SCIFI"
+    },
+    {
+      "path": "移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "Category: MOVEMENT"
+    },
+    {
+      "path": "窗户",
+      "new_name": "【窗户】Windows",
+      "english": "Windows",
+      "info": "Category: WINDOWS"
+    },
+    {
+      "path": "纸张",
+      "new_name": "【纸张】Paper",
+      "english": "Paper",
+      "info": "Category: PAPER"
+    },
+    {
+      "path": "绳索",
+      "new_name": "【绳索】Rope",
+      "english": "Rope",
+      "info": "Category: ROPE"
+    },
+    {
+      "path": "翅膀",
+      "new_name": "【翅膀】Wings",
+      "english": "Wings",
+      "info": "Category: WINGS"
+    },
+    {
+      "path": "脚步",
+      "new_name": "【脚步】Footsteps",
+      "english": "Footsteps",
+      "info": "Category: FOOTSTEPS"
+    },
+    {
+      "path": "自然灾害",
+      "new_name": "【自然灾害】Natural Disaster",
+      "english": "Natural Disaster",
+      "info": "Category: NATURAL DISASTER"
+    },
+    {
+      "path": "航空器",
+      "new_name": "【航空器】Aircraft",
+      "english": "Aircraft",
+      "info": "Category: AIRCRAFT"
+    },
+    {
+      "path": "船舶",
+      "new_name": "【船舶】Boats",
+      "english": "Boats",
+      "info": "Category: BOATS"
+    },
+    {
+      "path": "血",
+      "new_name": "【血】Gore",
+      "english": "Gore",
+      "info": "Category: GORE"
+    },
+    {
+      "path": "警报",
+      "new_name": "【警报】Alarms",
+      "english": "Alarms",
+      "info": "Category: ALARMS"
+    },
+    {
+      "path": "语音",
+      "new_name": "【语音】Voices",
+      "english": "Voices",
+      "info": "Category: VOICES"
+    },
+    {
+      "path": "车辆",
+      "new_name": "【车辆】Vehicles",
+      "english": "Vehicles",
+      "info": "Category: VEHICLES"
+    },
+    {
+      "path": "运动",
+      "new_name": "【运动】Sports",
+      "english": "Sports",
+      "info": "Category: SPORTS"
+    },
+    {
+      "path": "通讯",
+      "new_name": "【通讯】Communications",
+      "english": "Communications",
+      "info": "Category: COMMUNICATIONS"
+    },
+    {
+      "path": "金属",
+      "new_name": "【金属】Metal",
+      "english": "Metal",
+      "info": "Category: METAL"
+    },
+    {
+      "path": "钟表",
+      "new_name": "【钟表】Clocks",
+      "english": "Clocks",
+      "info": "Category: CLOCKS"
+    },
+    {
+      "path": "钟铃",
+      "new_name": "【钟铃】Bells",
+      "english": "Bells",
+      "info": "Category: BELLS"
+    },
+    {
+      "path": "链条",
+      "new_name": "【链条】Chains",
+      "english": "Chains",
+      "info": "Category: CHAINS"
+    },
+    {
+      "path": "门",
+      "new_name": "【门】Doors",
+      "english": "Doors",
+      "info": "Category: DOORS"
+    },
+    {
+      "path": "陶瓷",
+      "new_name": "【陶瓷】Ceramics",
+      "english": "Ceramics",
+      "info": "Category: CERAMICS"
+    },
+    {
+      "path": "雨",
+      "new_name": "【雨】Rain",
+      "english": "Rain",
+      "info": "CatShort GENERAL: RAIN -> RAIN"
+    },
+    {
+      "path": "雪",
+      "new_name": "【雪】Snow",
+      "english": "Snow",
+      "info": "Category: SNOW"
+    },
+    {
+      "path": "风",
+      "new_name": "【风】Wind",
+      "english": "Wind",
+      "info": "CatShort GENERAL: WIND -> WIND"
+    },
+    {
+      "path": "食物",
+      "new_name": "【食物】Food & Drink",
+      "english": "Food & Drink",
+      "info": "Category: FOOD & DRINK"
+    },
+    {
+      "path": "马达",
+      "new_name": "【马达】Motors",
+      "english": "Motors",
+      "info": "Category: MOTORS"
+    },
+    {
+      "path": "魔法",
+      "new_name": "【魔法】Magic",
+      "english": "Magic",
+      "info": "Category: MAGIC"
+    },
+    {
+      "path": "鸟类",
+      "new_name": "【鸟类】Birds",
+      "english": "Birds",
+      "info": "Category: BIRDS"
+    },
+    {
+      "path": "乐句\\乐句",
+      "new_name": "【乐句】Song & Phrase",
+      "english": "Song & Phrase",
+      "info": "SubCat: MUSCSong"
+    },
+    {
+      "path": "乐句\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MUSCMisc"
+    },
+    {
+      "path": "乐句\\合唱",
+      "new_name": "【合唱】Choral",
+      "english": "Choral",
+      "info": "SubCat: MUSCChor"
+    },
+    {
+      "path": "乐句\\合成器",
+      "new_name": "【合成器】Synthesized",
+      "english": "Synthesized",
+      "info": "SubCat: MUSCSynth"
+    },
+    {
+      "path": "乐句\\器乐",
+      "new_name": "【器乐】Instrument",
+      "english": "Instrument",
+      "info": "SubCat: MUSCInst"
+    },
+    {
+      "path": "乐句\\实验",
+      "new_name": "【实验】Experimental",
+      "english": "Experimental",
+      "info": "SubCat: MUSCExpr"
+    },
+    {
+      "path": "乐句\\弦乐",
+      "new_name": "【弦乐】Stringed",
+      "english": "Stringed",
+      "info": "SubCat: MUSCStr"
+    },
+    {
+      "path": "乐句\\循环",
+      "new_name": "【循环】Loop",
+      "english": "Loop",
+      "info": "SubCat: MUSCLoop"
+    },
+    {
+      "path": "乐句\\打击",
+      "new_name": "【打击】Percussion",
+      "english": "Percussion",
+      "info": "SubCat: MUSCPerc"
+    },
+    {
+      "path": "乐句\\打击乐",
+      "new_name": "【打击乐】Percussion Tuned",
+      "english": "Percussion Tuned",
+      "info": "SubCat: MUSCTnprc"
+    },
+    {
+      "path": "乐句\\拨弦乐",
+      "new_name": "【拨弦乐】Plucked",
+      "english": "Plucked",
+      "info": "SubCat: MUSCPluck"
+    },
+    {
+      "path": "乐句\\排铃",
+      "new_name": "【排铃】Chime",
+      "english": "Chime",
+      "info": "SubCat: MUSCChim"
+    },
+    {
+      "path": "乐句\\摇动",
+      "new_name": "【摇动】Shaken",
+      "english": "Shaken",
+      "info": "SubCat: MUSCShake"
+    },
+    {
+      "path": "乐句\\木管",
+      "new_name": "【木管】Woodwind",
+      "english": "Woodwind",
+      "info": "SubCat: MUSCWind"
+    },
+    {
+      "path": "乐句\\玩具",
+      "new_name": "【玩具】Toy",
+      "english": "Toy",
+      "info": "SubCat: MUSCToy"
+    },
+    {
+      "path": "乐句\\表演",
+      "new_name": "【表演】Performance",
+      "english": "Performance",
+      "info": "SubCat: MUSCPrfm"
+    },
+    {
+      "path": "乐句\\采样",
+      "new_name": "【采样】Sample",
+      "english": "Sample",
+      "info": "SubCat: MUSCSmpl"
+    },
+    {
+      "path": "乐句\\重击音",
+      "new_name": "【重击音】Stinger",
+      "english": "Stinger",
+      "info": "SubCat: MUSCStngr"
+    },
+    {
+      "path": "乐句\\钟铃",
+      "new_name": "【钟铃】Bells",
+      "english": "Bells",
+      "info": "SubCat: MUSCBell"
+    },
+    {
+      "path": "乐句\\铜管",
+      "new_name": "【铜管】Brass",
+      "english": "Brass",
+      "info": "SubCat: MUSCBrass"
+    },
+    {
+      "path": "乐句\\键控",
+      "new_name": "【键控】Keyed",
+      "english": "Keyed",
+      "info": "SubCat: MUSCKeyd"
+    },
+    {
+      "path": "人\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: HMNMisc"
+    },
+    {
+      "path": "人\\吐",
+      "new_name": "【吐】Spit",
+      "english": "Spit",
+      "info": "SubCat: HMNSpit"
+    },
+    {
+      "path": "人\\吹",
+      "new_name": "【吹】Blow",
+      "english": "Blow",
+      "info": "SubCat: HMNBlow"
+    },
+    {
+      "path": "人\\呕吐",
+      "new_name": "【呕吐】Vomit",
+      "english": "Vomit",
+      "info": "SubCat: HMNVomit"
+    },
+    {
+      "path": "人\\呼吸",
+      "new_name": "【呼吸】Breath",
+      "english": "Breath",
+      "info": "SubCat: HMNBrth"
+    },
+    {
+      "path": "人\\咳嗽",
+      "new_name": "【咳嗽】Cough",
+      "english": "Cough",
+      "info": "SubCat: HMNCough"
+    },
+    {
+      "path": "人\\尿",
+      "new_name": "【尿】Pee",
+      "english": "Pee",
+      "info": "SubCat: HMNPee"
+    },
+    {
+      "path": "人\\心跳",
+      "new_name": "【心跳】Heartbeat",
+      "english": "Heartbeat",
+      "info": "SubCat: HMNHart"
+    },
+    {
+      "path": "人\\打喷嚏",
+      "new_name": "【打喷嚏】Sneeze",
+      "english": "Sneeze",
+      "info": "SubCat: HMNSneez"
+    },
+    {
+      "path": "人\\打嗝",
+      "new_name": "【打嗝】Burp",
+      "english": "Burp",
+      "info": "SubCat: HMNBurp"
+    },
+    {
+      "path": "人\\打鼾",
+      "new_name": "【打鼾】Snore",
+      "english": "Snore",
+      "info": "SubCat: HMNSnor"
+    },
+    {
+      "path": "人\\接吻",
+      "new_name": "【接吻】Kiss",
+      "english": "Kiss",
+      "info": "SubCat: HMNKiss"
+    },
+    {
+      "path": "人\\皮肤",
+      "new_name": "【皮肤】Skin",
+      "english": "Skin",
+      "info": "SubCat: HMNSkin"
+    },
+    {
+      "path": "人\\闻",
+      "new_name": "【闻】Sniff",
+      "english": "Sniff",
+      "info": "SubCat: HMNSniff"
+    },
+    {
+      "path": "人群\\儿童",
+      "new_name": "【儿童】Children",
+      "english": "Children",
+      "info": "SubCat: CRWDChld"
+    },
+    {
+      "path": "人群\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CRWDMisc"
+    },
+    {
+      "path": "人群\\反应",
+      "new_name": "【反应】Reaction",
+      "english": "Reaction",
+      "info": "SubCat: CRWDReac"
+    },
+    {
+      "path": "人群\\喝彩",
+      "new_name": "【喝彩】Applause",
+      "english": "Applause",
+      "info": "SubCat: CRWDApls"
+    },
+    {
+      "path": "人群\\安静",
+      "new_name": "【安静】Quiet",
+      "english": "Quiet",
+      "info": "SubCat: CRWDQuiet"
+    },
+    {
+      "path": "人群\\庆祝",
+      "new_name": "【庆祝】Celebration",
+      "english": "Celebration",
+      "info": "SubCat: CRWDCele"
+    },
+    {
+      "path": "人群\\循环群杂",
+      "new_name": "【循环群杂】Loop Group",
+      "english": "Loop Group",
+      "info": "SubCat: CRWDLoop"
+    },
+    {
+      "path": "人群\\恐惧",
+      "new_name": "【恐惧】Panic",
+      "english": "Panic",
+      "info": "SubCat: CRWDPanic"
+    },
+    {
+      "path": "人群\\愤怒",
+      "new_name": "【愤怒】Angry",
+      "english": "Angry",
+      "info": "SubCat: CRWDAngr"
+    },
+    {
+      "path": "人群\\打斗",
+      "new_name": "【打斗】Battle",
+      "english": "Battle",
+      "info": "SubCat: CRWDBatl"
+    },
+    {
+      "path": "人群\\欢呼",
+      "new_name": "【欢呼】Cheering",
+      "english": "Cheering",
+      "info": "SubCat: CRWDCheer"
+    },
+    {
+      "path": "人群\\歌唱",
+      "new_name": "【歌唱】Singing",
+      "english": "Singing",
+      "info": "SubCat: CRWDSing"
+    },
+    {
+      "path": "人群\\笑",
+      "new_name": "【笑】Laughter",
+      "english": "Laughter",
+      "info": "SubCat: CRWDLaff"
+    },
+    {
+      "path": "人群\\群杂",
+      "new_name": "【群杂】Walla",
+      "english": "Walla",
+      "info": "SubCat: CRWDWalla"
+    },
+    {
+      "path": "人群\\谈话",
+      "new_name": "【谈话】Conversation",
+      "english": "Conversation",
+      "info": "SubCat: CRWDConv"
+    },
+    {
+      "path": "人群\\运动",
+      "new_name": "【运动】Sport",
+      "english": "Sport",
+      "info": "SubCat: CRWDSprt"
+    },
+    {
+      "path": "冰\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ICEMisc"
+    },
+    {
+      "path": "冰\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: ICEImpt"
+    },
+    {
+      "path": "冰\\打碎",
+      "new_name": "【打碎】Break",
+      "english": "Break",
+      "info": "SubCat: ICEBrk"
+    },
+    {
+      "path": "冰\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: ICEHndl"
+    },
+    {
+      "path": "冰\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: ICEFric"
+    },
+    {
+      "path": "冰\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: ICECrsh"
+    },
+    {
+      "path": "冰\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: ICEMvmt"
+    },
+    {
+      "path": "冰\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: ICETonl"
+    },
+    {
+      "path": "动物\\两栖动物",
+      "new_name": "【两栖动物】Amphibian",
+      "english": "Amphibian",
+      "info": "SubCat: ANMLAmph"
+    },
+    {
+      "path": "动物\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ANMLMisc"
+    },
+    {
+      "path": "动物\\养殖场",
+      "new_name": "【养殖场】Farm",
+      "english": "Farm",
+      "info": "SubCat: ANMLFarm"
+    },
+    {
+      "path": "动物\\啮齿动物",
+      "new_name": "【啮齿动物】Rodent",
+      "english": "Rodent",
+      "info": "SubCat: ANMLRdnt"
+    },
+    {
+      "path": "动物\\家猫",
+      "new_name": "【家猫】Cat Domestic",
+      "english": "Cat Domestic",
+      "info": "SubCat: ANMLCat"
+    },
+    {
+      "path": "动物\\昆虫",
+      "new_name": "【昆虫】Insect",
+      "english": "Insect",
+      "info": "SubCat: ANMLInsc"
+    },
+    {
+      "path": "动物\\水生动物",
+      "new_name": "【水生动物】Aquatic",
+      "english": "Aquatic",
+      "info": "SubCat: ANMLAqua"
+    },
+    {
+      "path": "动物\\灵长类",
+      "new_name": "【灵长类】Primate",
+      "english": "Primate",
+      "info": "SubCat: ANMLPrim"
+    },
+    {
+      "path": "动物\\爬行动物",
+      "new_name": "【爬行动物】Reptile",
+      "english": "Reptile",
+      "info": "SubCat: ANMLRept"
+    },
+    {
+      "path": "动物\\犬科动物",
+      "new_name": "【犬科动物】Dog Wild",
+      "english": "Dog Wild",
+      "info": "SubCat: ANMLWdog"
+    },
+    {
+      "path": "动物\\狗",
+      "new_name": "【狗】Dog",
+      "english": "Dog",
+      "info": "SubCat: ANMLDog"
+    },
+    {
+      "path": "动物\\猫科动物",
+      "new_name": "【猫科动物】Cat Wild",
+      "english": "Cat Wild",
+      "info": "SubCat: ANMLWcat"
+    },
+    {
+      "path": "动物\\蝙蝠",
+      "new_name": "【蝙蝠】Bat",
+      "english": "Bat",
+      "info": "SubCat: ANMLBat"
+    },
+    {
+      "path": "动物\\野生动物",
+      "new_name": "【野生动物】Wild",
+      "english": "Wild",
+      "info": "SubCat: ANMLWild"
+    },
+    {
+      "path": "动物\\马",
+      "new_name": "【马】Horse",
+      "english": "Horse",
+      "info": "SubCat: ANMLHors"
+    },
+    {
+      "path": "化学\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CHEMMisc"
+    },
+    {
+      "path": "化学\\反应",
+      "new_name": "【反应】Reaction",
+      "english": "Reaction",
+      "info": "SubCat: CHEMReac"
+    },
+    {
+      "path": "化学\\腐蚀",
+      "new_name": "【腐蚀】Acid",
+      "english": "Acid",
+      "info": "SubCat: CHEMAcid"
+    },
+    {
+      "path": "卡通\\伸缩",
+      "new_name": "【伸缩】Stretch",
+      "english": "Stretch",
+      "info": "SubCat: TOONStrch"
+    },
+    {
+      "path": "卡通\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: TOONMisc"
+    },
+    {
+      "path": "卡通\\动物",
+      "new_name": "【动物】Animal",
+      "english": "Animal",
+      "info": "SubCat: TOONAnml"
+    },
+    {
+      "path": "卡通\\号",
+      "new_name": "【号】Horn",
+      "english": "Horn",
+      "info": "SubCat: TOONHorn"
+    },
+    {
+      "path": "卡通\\咣当",
+      "new_name": "【咣当】Clang",
+      "english": "Clang",
+      "info": "SubCat: TOONClang"
+    },
+    {
+      "path": "卡通\\哨子",
+      "new_name": "【哨子】Whistle",
+      "english": "Whistle",
+      "info": "SubCat: TOONWhis"
+    },
+    {
+      "path": "卡通\\啪嗒",
+      "new_name": "【啪嗒】Splat",
+      "english": "Splat",
+      "info": "SubCat: TOONSplt"
+    },
+    {
+      "path": "卡通\\嗖嗖",
+      "new_name": "【嗖嗖】Swish",
+      "english": "Swish",
+      "info": "SubCat: TOONSwsh"
+    },
+    {
+      "path": "卡通\\嘎吱",
+      "new_name": "【嘎吱】Creak",
+      "english": "Creak",
+      "info": "SubCat: TOONCreak"
+    },
+    {
+      "path": "卡通\\弹拨",
+      "new_name": "【弹拨】Pluck",
+      "english": "Pluck",
+      "info": "SubCat: TOONPluk"
+    },
+    {
+      "path": "卡通\\弹拨声",
+      "new_name": "【弹拨声】Twang",
+      "english": "Twang",
+      "info": "SubCat: TOONTwang"
+    },
+    {
+      "path": "卡通\\弹簧音",
+      "new_name": "【弹簧音】Boing",
+      "english": "Boing",
+      "info": "SubCat: TOONBoing"
+    },
+    {
+      "path": "卡通\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: TOONImpt"
+    },
+    {
+      "path": "卡通\\拉链",
+      "new_name": "【拉链】Zip",
+      "english": "Zip",
+      "info": "SubCat: TOONZip"
+    },
+    {
+      "path": "卡通\\摇晃",
+      "new_name": "【摇晃】Shake",
+      "english": "Shake",
+      "info": "SubCat: TOONShake"
+    },
+    {
+      "path": "卡通\\摩擦",
+      "new_name": "【摩擦】Squeak",
+      "english": "Squeak",
+      "info": "SubCat: TOONSqk"
+    },
+    {
+      "path": "卡通\\机器",
+      "new_name": "【机器】Machine",
+      "english": "Machine",
+      "info": "SubCat: TOONMach"
+    },
+    {
+      "path": "卡通\\语音",
+      "new_name": "【语音】Vocal",
+      "english": "Vocal",
+      "info": "SubCat: TOONVox"
+    },
+    {
+      "path": "卡通\\载具",
+      "new_name": "【载具】Vehicle",
+      "english": "Vehicle",
+      "info": "SubCat: TOONVeh"
+    },
+    {
+      "path": "卡通\\道具",
+      "new_name": "【道具】Pop",
+      "english": "Pop",
+      "info": "SubCat: TOONPop"
+    },
+    {
+      "path": "卡通\\音乐性",
+      "new_name": "【音乐性】Musical",
+      "english": "Musical",
+      "info": "SubCat: TOONMx"
+    },
+    {
+      "path": "卡通\\颤音",
+      "new_name": "【颤音】Warble",
+      "english": "Warble",
+      "info": "SubCat: TOONWarb"
+    },
+    {
+      "path": "号角\\传统",
+      "new_name": "【传统】Traditional",
+      "english": "Traditional",
+      "info": "SubCat: HORNTrad"
+    },
+    {
+      "path": "号角\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: HORNMisc"
+    },
+    {
+      "path": "号角\\欢庆用",
+      "new_name": "【欢庆用】Celebration",
+      "english": "Celebration",
+      "info": "SubCat: HORNCele"
+    },
+    {
+      "path": "号角\\气压式",
+      "new_name": "【气压式】Air Powered",
+      "english": "Air Powered",
+      "info": "SubCat: HORNAir"
+    },
+    {
+      "path": "呼呼声\\呼呼声",
+      "new_name": "【呼呼声】Whoosh",
+      "english": "Whoosh",
+      "info": "CatShort sub: WHSH"
+    },
+    {
+      "path": "哨音\\人",
+      "new_name": "【人】Human",
+      "english": "Human",
+      "info": "SubCat: WHSTHmn"
+    },
+    {
+      "path": "哨音\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WHSTMisc"
+    },
+    {
+      "path": "哨音\\机械设备",
+      "new_name": "【机械设备】Mechanical",
+      "english": "Mechanical",
+      "info": "SubCat: WHSTMech"
+    },
+    {
+      "path": "嗖嗖声\\嗖嗖声",
+      "new_name": "【嗖嗖声】Swish",
+      "english": "Swish",
+      "info": "CatShort sub: SWSH"
+    },
+    {
+      "path": "器具\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: EQUIPMisc"
+    },
+    {
+      "path": "器具\\军事装备",
+      "new_name": "【军事装备】Tactical",
+      "english": "Tactical",
+      "info": "SubCat: EQUIPTact"
+    },
+    {
+      "path": "器具\\户外装备",
+      "new_name": "【户外装备】Recreational",
+      "english": "Recreational",
+      "info": "SubCat: EQUIPRec"
+    },
+    {
+      "path": "器具\\挽具",
+      "new_name": "【挽具】Bridle & Tack",
+      "english": "Bridle & Tack",
+      "info": "SubCat: EQUIPBridle"
+    },
+    {
+      "path": "器具\\运动装备",
+      "new_name": "【运动装备】Sport",
+      "english": "Sport",
+      "info": "SubCat: EQUIPSprt"
+    },
+    {
+      "path": "器具\\高科技",
+      "new_name": "【高科技】Hitech",
+      "english": "Hitech",
+      "info": "SubCat: EQUIPTech"
+    },
+    {
+      "path": "地热\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: GEOMisc"
+    },
+    {
+      "path": "地热\\岩浆",
+      "new_name": "【岩浆】Lava",
+      "english": "Lava",
+      "info": "SubCat: GEOLava"
+    },
+    {
+      "path": "地热\\泥浆",
+      "new_name": "【泥浆】Mud Pots",
+      "english": "Mud Pots",
+      "info": "SubCat: GEOMudpot"
+    },
+    {
+      "path": "地热\\热浆",
+      "new_name": "【热浆】Fumarole",
+      "english": "Fumarole",
+      "info": "SubCat: GEOFuma"
+    },
+    {
+      "path": "地热\\间歇泉",
+      "new_name": "【间歇泉】Geyser",
+      "english": "Geyser",
+      "info": "SubCat: GEOGeyser"
+    },
+    {
+      "path": "塑料\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: PLASMisc"
+    },
+    {
+      "path": "塑料\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: PLASImpt"
+    },
+    {
+      "path": "塑料\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: PLASHndl"
+    },
+    {
+      "path": "塑料\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: PLASFric"
+    },
+    {
+      "path": "塑料\\断裂",
+      "new_name": "【断裂】Break",
+      "english": "Break",
+      "info": "SubCat: PLASBrk"
+    },
+    {
+      "path": "塑料\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: PLASCrsh"
+    },
+    {
+      "path": "塑料\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: PLASMvmt"
+    },
+    {
+      "path": "塑料\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: PLASTonl"
+    },
+    {
+      "path": "声音设计\\人声",
+      "new_name": "【人声】Vocal",
+      "english": "Vocal",
+      "info": "SubCat: DSGNVocl"
+    },
+    {
+      "path": "声音设计\\低音氛围",
+      "new_name": "【低音氛围】Drone",
+      "english": "Drone",
+      "info": "SubCat: DSGNDron"
+    },
+    {
+      "path": "声音设计\\低频下潜",
+      "new_name": "【低频下潜】Bass Dive",
+      "english": "Bass Dive",
+      "info": "SubCat: DSGNBass"
+    },
+    {
+      "path": "声音设计\\低频号角",
+      "new_name": "【低频号角】Braam",
+      "english": "Braam",
+      "info": "SubCat: DSGNBram"
+    },
+    {
+      "path": "声音设计\\低频轰鸣",
+      "new_name": "【低频轰鸣】Boom",
+      "english": "Boom",
+      "info": "SubCat: DSGNBoom"
+    },
+    {
+      "path": "声音设计\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: DSGNMisc"
+    },
+    {
+      "path": "声音设计\\原始录音",
+      "new_name": "【原始录音】Source",
+      "english": "Source",
+      "info": "SubCat: DSGNSrce"
+    },
+    {
+      "path": "声音设计\\合成器",
+      "new_name": "【合成器】Morph",
+      "english": "Morph",
+      "info": "SubCat: DSGNMorph"
+    },
+    {
+      "path": "声音设计\\呼声",
+      "new_name": "【呼声】Whoosh",
+      "english": "Whoosh",
+      "info": "SubCat: DSGNWhsh"
+    },
+    {
+      "path": "声音设计\\失真",
+      "new_name": "【失真】Distortion",
+      "english": "Distortion",
+      "info": "SubCat: DSGNDist"
+    },
+    {
+      "path": "声音设计\\次声波",
+      "new_name": "【次声波】Rumble",
+      "english": "Rumble",
+      "info": "SubCat: DSGNRmbl"
+    },
+    {
+      "path": "声音设计\\毛骨悚然",
+      "new_name": "【毛骨悚然】Eerie",
+      "english": "Eerie",
+      "info": "SubCat: DSGNErie"
+    },
+    {
+      "path": "声音设计\\渐强",
+      "new_name": "【渐强】Riser",
+      "english": "Riser",
+      "info": "SubCat: DSGNRise"
+    },
+    {
+      "path": "声音设计\\电子合成",
+      "new_name": "【电子合成】Synthetic",
+      "english": "Synthetic",
+      "info": "SubCat: DSGNSynth"
+    },
+    {
+      "path": "声音设计\\碰撞",
+      "new_name": "【碰撞】Impact",
+      "english": "Impact",
+      "info": "SubCat: DSGNImpt"
+    },
+    {
+      "path": "声音设计\\粒状",
+      "new_name": "【粒状】Granular",
+      "english": "Granular",
+      "info": "SubCat: DSGNGran"
+    },
+    {
+      "path": "声音设计\\节奏性",
+      "new_name": "【节奏性】Rhythmic",
+      "english": "Rhythmic",
+      "info": "SubCat: DSGNRythm"
+    },
+    {
+      "path": "声音设计\\重音强调",
+      "new_name": "【重音强调】Stinger",
+      "english": "Stinger",
+      "info": "SubCat: DSGNStngr"
+    },
+    {
+      "path": "声音设计\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: DSGNTonl"
+    },
+    {
+      "path": "声音设计\\鬼魅飘渺",
+      "new_name": "【鬼魅飘渺】Ethereal",
+      "english": "Ethereal",
+      "info": "SubCat: DSGNEthr"
+    },
+    {
+      "path": "天气\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WTHR"
+    },
+    {
+      "path": "天气\\冰雹",
+      "new_name": "【冰雹】Hail",
+      "english": "Hail",
+      "info": "SubCat: HAIL"
+    },
+    {
+      "path": "天气\\雷",
+      "new_name": "【雷】Thunder",
+      "english": "Thunder",
+      "info": "SubCat: THUN"
+    },
+    {
+      "path": "天气\\风暴",
+      "new_name": "【风暴】Storm",
+      "english": "Storm",
+      "info": "SubCat: STORM"
+    },
+    {
+      "path": "子弹\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: BLLTMisc"
+    },
+    {
+      "path": "子弹\\击中",
+      "new_name": "【击中】Impact",
+      "english": "Impact",
+      "info": "SubCat: BLLTImpt"
+    },
+    {
+      "path": "子弹\\弹壳",
+      "new_name": "【弹壳】Shell",
+      "english": "Shell",
+      "info": "SubCat: BLLTShel"
+    },
+    {
+      "path": "子弹\\弹跳",
+      "new_name": "【弹跳】Ricochet",
+      "english": "Ricochet",
+      "info": "SubCat: BLLTRico"
+    },
+    {
+      "path": "子弹\\飞过",
+      "new_name": "【飞过】By",
+      "english": "By",
+      "info": "SubCat: BLLTBy"
+    },
+    {
+      "path": "小船\\舱内",
+      "new_name": "【舱内】Interior",
+      "english": "Interior",
+      "info": "手动映射: 小船/舱内 -> BOATS INTERIOR"
+    },
+    {
+      "path": "岩石\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ROCKMisc"
+    },
+    {
+      "path": "岩石\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: ROCKImpt"
+    },
+    {
+      "path": "岩石\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: ROCKHndl"
+    },
+    {
+      "path": "岩石\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: ROCKFric"
+    },
+    {
+      "path": "岩石\\断裂",
+      "new_name": "【断裂】Break",
+      "english": "Break",
+      "info": "SubCat: ROCKBrk"
+    },
+    {
+      "path": "岩石\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: ROCKCrsh"
+    },
+    {
+      "path": "岩石\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: ROCKMvmt"
+    },
+    {
+      "path": "岩石\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: ROCKTonl"
+    },
+    {
+      "path": "工具\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: TOOLMisc"
+    },
+    {
+      "path": "工具\\园林工具",
+      "new_name": "【园林工具】Garden",
+      "english": "Garden",
+      "info": "SubCat: TOOLGrdn"
+    },
+    {
+      "path": "工具\\手持",
+      "new_name": "【手持】Hand",
+      "english": "Hand",
+      "info": "SubCat: TOOLHand"
+    },
+    {
+      "path": "工具\\气动",
+      "new_name": "【气动】Pneumatic",
+      "english": "Pneumatic",
+      "info": "SubCat: TOOLPneu"
+    },
+    {
+      "path": "工具\\电动",
+      "new_name": "【电动】Power",
+      "english": "Power",
+      "info": "SubCat: TOOLPowr"
+    },
+    {
+      "path": "布料\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CLOTHMisc"
+    },
+    {
+      "path": "布料\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: CLOTHImpt"
+    },
+    {
+      "path": "布料\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: CLOTHHndl"
+    },
+    {
+      "path": "布料\\抖动",
+      "new_name": "【抖动】Flap",
+      "english": "Flap",
+      "info": "SubCat: CLOTHFlp"
+    },
+    {
+      "path": "布料\\撕扯",
+      "new_name": "【撕扯】Rip",
+      "english": "Rip",
+      "info": "SubCat: CLOTHRip"
+    },
+    {
+      "path": "布料\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: CLOTHMvmt"
+    },
+    {
+      "path": "归档\\ADR",
+      "new_name": "【ADR】Adr",
+      "english": "Adr",
+      "info": "SubCat: ADR"
+    },
+    {
+      "path": "归档\\卷积混响素材",
+      "new_name": "【卷积混响素材】Impulse Response",
+      "english": "Impulse Response",
+      "info": "SubCat: IR"
+    },
+    {
+      "path": "归档\\原始素材",
+      "new_name": "【原始素材】Raw",
+      "english": "Raw",
+      "info": "SubCat: RAW"
+    },
+    {
+      "path": "归档\\参考素材",
+      "new_name": "【参考素材】Reference",
+      "english": "Reference",
+      "info": "SubCat: REF"
+    },
+    {
+      "path": "归档\\商标音",
+      "new_name": "【商标音】Trademarked",
+      "english": "Trademarked",
+      "info": "SubCat: TMARK"
+    },
+    {
+      "path": "归档\\场景素材",
+      "new_name": "【场景素材】Scene",
+      "english": "Scene",
+      "info": "SubCat: SCNE"
+    },
+    {
+      "path": "归档\\导出",
+      "new_name": "【导出】Bounce",
+      "english": "Bounce",
+      "info": "SubCat: BNCE"
+    },
+    {
+      "path": "归档\\循环群组",
+      "new_name": "【循环群组】Loop Group",
+      "english": "Loop Group",
+      "info": "SubCat: LPGRP"
+    },
+    {
+      "path": "归档\\未确认素材",
+      "new_name": "【未确认素材】Wtf",
+      "english": "Wtf",
+      "info": "SubCat: WTF"
+    },
+    {
+      "path": "归档\\测试音",
+      "new_name": "【测试音】Test Tone",
+      "english": "Test Tone",
+      "info": "SubCat: TEST"
+    },
+    {
+      "path": "归档\\混音",
+      "new_name": "【混音】Mix",
+      "english": "Mix",
+      "info": "SubCat: MIX"
+    },
+    {
+      "path": "归档\\现场对白",
+      "new_name": "【现场对白】Production",
+      "english": "Production",
+      "info": "SubCat: PROD"
+    },
+    {
+      "path": "归档\\现场音效",
+      "new_name": "【现场音效】Pfx",
+      "english": "Pfx",
+      "info": "SubCat: PFX"
+    },
+    {
+      "path": "归档\\资源",
+      "new_name": "【资源】Asset",
+      "english": "Asset",
+      "info": "SubCat: ASSET"
+    },
+    {
+      "path": "归档\\过程中素材",
+      "new_name": "【过程中素材】Work In Progress",
+      "english": "Work In Progress",
+      "info": "SubCat: WIP"
+    },
+    {
+      "path": "打斗\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FGHTMisc"
+    },
+    {
+      "path": "打斗\\击打",
+      "new_name": "【击打】Impact",
+      "english": "Impact",
+      "info": "SubCat: FGHTImpt"
+    },
+    {
+      "path": "打斗\\抓握",
+      "new_name": "【抓握】Grab",
+      "english": "Grab",
+      "info": "SubCat: FGHTGrab"
+    },
+    {
+      "path": "打斗\\衣服",
+      "new_name": "【衣服】Cloth",
+      "english": "Cloth",
+      "info": "SubCat: FGHTClth"
+    },
+    {
+      "path": "打斗\\跌倒",
+      "new_name": "【跌倒】Bodyfall",
+      "english": "Bodyfall",
+      "info": "SubCat: FGHTBf"
+    },
+    {
+      "path": "抽屉\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: DRWRMisc"
+    },
+    {
+      "path": "抽屉\\塑料",
+      "new_name": "【塑料】Plastic",
+      "english": "Plastic",
+      "info": "SubCat: DRWRPlas"
+    },
+    {
+      "path": "抽屉\\木制",
+      "new_name": "【木制】Wood",
+      "english": "Wood",
+      "info": "SubCat: DRWRWood"
+    },
+    {
+      "path": "抽屉\\金属",
+      "new_name": "【金属】Metal",
+      "english": "Metal",
+      "info": "SubCat: DRWRMetl"
+    },
+    {
+      "path": "拆除\\倒塌",
+      "new_name": "【倒塌】Collapse",
+      "english": "Collapse",
+      "info": "SubCat: DESTRClpse"
+    },
+    {
+      "path": "拆除\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: DESTRMisc"
+    },
+    {
+      "path": "拆除\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: DESTRCrsh"
+    },
+    {
+      "path": "拟音\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FOLYMisc"
+    },
+    {
+      "path": "拟音\\布料",
+      "new_name": "【布料】Cloth",
+      "english": "Cloth",
+      "info": "Split SubCat: FOLYClth"
+    },
+    {
+      "path": "拟音\\手",
+      "new_name": "【手】Hands",
+      "english": "Hands",
+      "info": "SubCat: FOLYHand"
+    },
+    {
+      "path": "拟音\\脚步",
+      "new_name": "【脚步】Feet",
+      "english": "Feet",
+      "info": "SubCat: FOLYFeet"
+    },
+    {
+      "path": "拟音\\道具",
+      "new_name": "【道具】Prop",
+      "english": "Prop",
+      "info": "SubCat: FOLYProp"
+    },
+    {
+      "path": "拟音\\布料\\衣服",
+      "new_name": "【衣服】Cloth",
+      "english": "Cloth",
+      "info": "Deep SubCat: FOLYClth"
+    },
+    {
+      "path": "提示音\\低保真",
+      "new_name": "【低保真】Lofi",
+      "english": "Lofi",
+      "info": "SubCat: BEEPLofi"
+    },
+    {
+      "path": "提示音\\医疗器械",
+      "new_name": "【医疗器械】Medical",
+      "english": "Medical",
+      "info": "SubCat: BEEPMed"
+    },
+    {
+      "path": "提示音\\电器",
+      "new_name": "【电器】Appliance",
+      "english": "Appliance",
+      "info": "SubCat: BEEPAppl"
+    },
+    {
+      "path": "提示音\\计时器",
+      "new_name": "【计时器】Timer",
+      "english": "Timer",
+      "info": "SubCat: BEEPTimer"
+    },
+    {
+      "path": "提示音\\车辆",
+      "new_name": "【车辆】Vehicle",
+      "english": "Vehicle",
+      "info": "SubCat: BEEPVeh"
+    },
+    {
+      "path": "提示音\\通用",
+      "new_name": "【通用】Beeps",
+      "english": "Beeps",
+      "info": "SubCat: BEEP"
+    },
+    {
+      "path": "放屁\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FARTMisc"
+    },
+    {
+      "path": "放屁\\声音设计",
+      "new_name": "【声音设计】Designed",
+      "english": "Designed",
+      "info": "SubCat: FARTDsgn"
+    },
+    {
+      "path": "放屁\\真实",
+      "new_name": "【真实】Real",
+      "english": "Real",
+      "info": "SubCat: FARTReal"
+    },
+    {
+      "path": "木头\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WOODMisc"
+    },
+    {
+      "path": "木头\\击打",
+      "new_name": "【击打】Impact",
+      "english": "Impact",
+      "info": "SubCat: WOODImpt"
+    },
+    {
+      "path": "木头\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: WOODHndl"
+    },
+    {
+      "path": "木头\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: WOODFric"
+    },
+    {
+      "path": "木头\\断裂",
+      "new_name": "【断裂】Break",
+      "english": "Break",
+      "info": "SubCat: WOODBrk"
+    },
+    {
+      "path": "木头\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: WOODCrsh"
+    },
+    {
+      "path": "木头\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: WOODMvmt"
+    },
+    {
+      "path": "木头\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: WOODTonl"
+    },
+    {
+      "path": "机器\\健身房",
+      "new_name": "【健身房】Gym",
+      "english": "Gym",
+      "info": "SubCat: MACHGym"
+    },
+    {
+      "path": "机器\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MACHMisc"
+    },
+    {
+      "path": "机器\\办公设备",
+      "new_name": "【办公设备】Office",
+      "english": "Office",
+      "info": "SubCat: MACHOffc"
+    },
+    {
+      "path": "机器\\医疗",
+      "new_name": "【医疗】Medical",
+      "english": "Medical",
+      "info": "SubCat: MACHMed"
+    },
+    {
+      "path": "机器\\家电",
+      "new_name": "【家电】Appliance",
+      "english": "Appliance",
+      "info": "SubCat: MACHAppl"
+    },
+    {
+      "path": "机器\\工业",
+      "new_name": "【工业】Industrial",
+      "english": "Industrial",
+      "info": "SubCat: MACHInd"
+    },
+    {
+      "path": "机器\\施工",
+      "new_name": "【施工】Construction",
+      "english": "Construction",
+      "info": "SubCat: MACHCnst"
+    },
+    {
+      "path": "机器\\泵",
+      "new_name": "【泵】Pump",
+      "english": "Pump",
+      "info": "SubCat: MACHPump"
+    },
+    {
+      "path": "机器\\游乐",
+      "new_name": "【游乐】Amusement",
+      "english": "Amusement",
+      "info": "SubCat: MACHAmus"
+    },
+    {
+      "path": "机器\\电梯",
+      "new_name": "【电梯】Elevator",
+      "english": "Elevator",
+      "info": "SubCat: MACHElev"
+    },
+    {
+      "path": "机器\\空调",
+      "new_name": "【空调】Hvac",
+      "english": "Hvac",
+      "info": "SubCat: MACHHvac"
+    },
+    {
+      "path": "机器\\老式",
+      "new_name": "【老式】Antique",
+      "english": "Antique",
+      "info": "SubCat: MACHAntq"
+    },
+    {
+      "path": "机器\\自动扶梯",
+      "new_name": "【自动扶梯】Escalator",
+      "english": "Escalator",
+      "info": "SubCat: MACHEscl"
+    },
+    {
+      "path": "机器\\花园",
+      "new_name": "【花园】Garden",
+      "english": "Garden",
+      "info": "SubCat: MACHGrdn"
+    },
+    {
+      "path": "机器\\装置",
+      "new_name": "【装置】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: MACHMech"
+    },
+    {
+      "path": "机器\\风扇",
+      "new_name": "【风扇】Fan",
+      "english": "Fan",
+      "info": "SubCat: MACHFan"
+    },
+    {
+      "path": "机器\\高科技",
+      "new_name": "【高科技】Hitech",
+      "english": "Hitech",
+      "info": "SubCat: MACHTech"
+    },
+    {
+      "path": "机器人\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ROBTMisc"
+    },
+    {
+      "path": "机器人\\语音",
+      "new_name": "【语音】Vocal",
+      "english": "Vocal",
+      "info": "SubCat: ROBTVox"
+    },
+    {
+      "path": "机器人\\运动",
+      "new_name": "【运动】Movement",
+      "english": "Movement",
+      "info": "SubCat: ROBTMvmt"
+    },
+    {
+      "path": "机械\\传动",
+      "new_name": "【传动】Relay",
+      "english": "Relay",
+      "info": "SubCat: MECHRelay"
+    },
+    {
+      "path": "机械\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MECHMisc"
+    },
+    {
+      "path": "机械\\咔哒",
+      "new_name": "【咔哒】Click",
+      "english": "Click",
+      "info": "SubCat: MECHClik"
+    },
+    {
+      "path": "机械\\开关",
+      "new_name": "【开关】Switch",
+      "english": "Switch",
+      "info": "SubCat: MECHSwtch"
+    },
+    {
+      "path": "机械\\插销",
+      "new_name": "【插销】Latch",
+      "english": "Latch",
+      "info": "SubCat: MECHLtch"
+    },
+    {
+      "path": "机械\\操纵杆",
+      "new_name": "【操纵杆】Lever",
+      "english": "Lever",
+      "info": "SubCat: MECHLvr"
+    },
+    {
+      "path": "机械\\棘轮",
+      "new_name": "【棘轮】Ratchet",
+      "english": "Ratchet",
+      "info": "SubCat: MECHRtch"
+    },
+    {
+      "path": "机械\\液压与气动",
+      "new_name": "【液压与气动】Hydraulic & Pneumatic",
+      "english": "Hydraulic & Pneumatic",
+      "info": "SubCat: MECHHydr"
+    },
+    {
+      "path": "机械\\滑轮",
+      "new_name": "【滑轮】Pulley",
+      "english": "Pulley",
+      "info": "SubCat: MECHPuly"
+    },
+    {
+      "path": "机械\\滚筒",
+      "new_name": "【滚筒】Roller",
+      "english": "Roller",
+      "info": "SubCat: MECHRolr"
+    },
+    {
+      "path": "机械\\锁",
+      "new_name": "【锁】Lock",
+      "english": "Lock",
+      "info": "SubCat: MECHLock"
+    },
+    {
+      "path": "机械\\齿轮",
+      "new_name": "【齿轮】Gears",
+      "english": "Gears",
+      "info": "SubCat: MECHGear"
+    },
+    {
+      "path": "枪支\\操作",
+      "new_name": "【操作】Handle",
+      "english": "Handle",
+      "info": "手动映射: 枪支/操作 -> GUNS HANDLE"
+    },
+    {
+      "path": "枪炮\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: GUNMisc"
+    },
+    {
+      "path": "枪炮\\加农炮",
+      "new_name": "【加农炮】Cannon",
+      "english": "Cannon",
+      "info": "SubCat: GUNCano"
+    },
+    {
+      "path": "枪炮\\古董枪",
+      "new_name": "【古董枪】Antique",
+      "english": "Antique",
+      "info": "SubCat: GUNAntq"
+    },
+    {
+      "path": "枪炮\\手枪",
+      "new_name": "【手枪】Pistol",
+      "english": "Pistol",
+      "info": "SubCat: GUNPis"
+    },
+    {
+      "path": "枪炮\\机枪",
+      "new_name": "【机枪】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: GUNMech"
+    },
+    {
+      "path": "枪炮\\步枪",
+      "new_name": "【步枪】Rifle",
+      "english": "Rifle",
+      "info": "SubCat: GUNRif"
+    },
+    {
+      "path": "枪炮\\消音枪",
+      "new_name": "【消音枪】Suppressed",
+      "english": "Suppressed",
+      "info": "SubCat: GUNSupr"
+    },
+    {
+      "path": "枪炮\\火炮",
+      "new_name": "【火炮】Artillery",
+      "english": "Artillery",
+      "info": "SubCat: GUNArtl"
+    },
+    {
+      "path": "枪炮\\自动化武器",
+      "new_name": "【自动化武器】Automatic",
+      "english": "Automatic",
+      "info": "SubCat: GUNAuto"
+    },
+    {
+      "path": "枪炮\\霰弹枪",
+      "new_name": "【霰弹枪】Shotgun",
+      "english": "Shotgun",
+      "info": "SubCat: GUNShotg"
+    },
+    {
+      "path": "枪炮\\高科技",
+      "new_name": "【高科技】Hitech",
+      "english": "Hitech",
+      "info": "SubCat: GUNTech"
+    },
+    {
+      "path": "植物\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: VEGEMisc"
+    },
+    {
+      "path": "植物\\叶",
+      "new_name": "【叶】Leaves",
+      "english": "Leaves",
+      "info": "SubCat: VEGELeaf"
+    },
+    {
+      "path": "植物\\树",
+      "new_name": "【树】Tree",
+      "english": "Tree",
+      "info": "SubCat: VEGETree"
+    },
+    {
+      "path": "植物\\草",
+      "new_name": "【草】Grass",
+      "english": "Grass",
+      "info": "SubCat: VEGEGras"
+    },
+    {
+      "path": "橡胶\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: RUBRMisc"
+    },
+    {
+      "path": "橡胶\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: RUBRImpt"
+    },
+    {
+      "path": "橡胶\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: RUBRHndl"
+    },
+    {
+      "path": "橡胶\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: RUBRFric"
+    },
+    {
+      "path": "橡胶\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: RUBRCrsh"
+    },
+    {
+      "path": "橡胶\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: RUBRMvmt"
+    },
+    {
+      "path": "橡胶\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: RUBRTonl"
+    },
+    {
+      "path": "武器\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WEAPMisc"
+    },
+    {
+      "path": "武器\\刀",
+      "new_name": "【刀】Knife",
+      "english": "Knife",
+      "info": "SubCat: WEAPKnif"
+    },
+    {
+      "path": "武器\\剑",
+      "new_name": "【剑】Sword",
+      "english": "Sword",
+      "info": "SubCat: WEAPSwrd"
+    },
+    {
+      "path": "武器\\弓",
+      "new_name": "【弓】Bow",
+      "english": "Bow",
+      "info": "SubCat: WEAPBow"
+    },
+    {
+      "path": "武器\\投石机",
+      "new_name": "【投石机】Siege",
+      "english": "Siege",
+      "info": "SubCat: WEAPSiege"
+    },
+    {
+      "path": "武器\\护甲",
+      "new_name": "【护甲】Armor",
+      "english": "Armor",
+      "info": "SubCat: WEAPArmr"
+    },
+    {
+      "path": "武器\\斧",
+      "new_name": "【斧】Axe",
+      "english": "Axe",
+      "info": "SubCat: WEAPAxe"
+    },
+    {
+      "path": "武器\\矛",
+      "new_name": "【矛】Polearm",
+      "english": "Polearm",
+      "info": "SubCat: WEAPPole"
+    },
+    {
+      "path": "武器\\箭",
+      "new_name": "【箭】Arrow",
+      "english": "Arrow",
+      "info": "SubCat: WEAPArro"
+    },
+    {
+      "path": "武器\\钝器",
+      "new_name": "【钝器】Blunt",
+      "english": "Blunt",
+      "info": "SubCat: WEAPBlnt"
+    },
+    {
+      "path": "武器\\鞭",
+      "new_name": "【鞭】Whip",
+      "english": "Whip",
+      "info": "SubCat: WEAPWhip"
+    },
+    {
+      "path": "气体\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: AIRMisc"
+    },
+    {
+      "path": "气体\\吹",
+      "new_name": "【吹】Blow",
+      "english": "Blow",
+      "info": "SubCat: AIRBlow"
+    },
+    {
+      "path": "气体\\嘶嘶声",
+      "new_name": "【嘶嘶声】Hiss",
+      "english": "Hiss",
+      "info": "SubCat: AIRHiss"
+    },
+    {
+      "path": "气体\\抽吸",
+      "new_name": "【抽吸】Suction",
+      "english": "Suction",
+      "info": "SubCat: AIRSuck"
+    },
+    {
+      "path": "气体\\爆发",
+      "new_name": "【爆发】Burst",
+      "english": "Burst",
+      "info": "SubCat: AIRBrst"
+    },
+    {
+      "path": "水\\倒水",
+      "new_name": "【倒水】Pour",
+      "english": "Pour",
+      "info": "SubCat: WATRPour"
+    },
+    {
+      "path": "水\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WATRMisc"
+    },
+    {
+      "path": "水\\击打",
+      "new_name": "【击打】Impact",
+      "english": "Impact",
+      "info": "SubCat: WATRImpt"
+    },
+    {
+      "path": "水\\喷泉",
+      "new_name": "【喷泉】Fountain",
+      "english": "Fountain",
+      "info": "SubCat: WATRFoun"
+    },
+    {
+      "path": "水\\拍浪",
+      "new_name": "【拍浪】Lap",
+      "english": "Lap",
+      "info": "SubCat: WATRLap"
+    },
+    {
+      "path": "水\\排水",
+      "new_name": "【排水】Drain",
+      "english": "Drain",
+      "info": "SubCat: WATRDran"
+    },
+    {
+      "path": "水\\气泡",
+      "new_name": "【气泡】Fizz",
+      "english": "Fizz",
+      "info": "SubCat: WATRFizz"
+    },
+    {
+      "path": "水\\水下",
+      "new_name": "【水下】Underwater",
+      "english": "Underwater",
+      "info": "SubCat: WATRUndwtr"
+    },
+    {
+      "path": "水\\水流",
+      "new_name": "【水流】Flow",
+      "english": "Flow",
+      "info": "SubCat: WATRFlow"
+    },
+    {
+      "path": "水\\水管道",
+      "new_name": "【水管道】Plumbing",
+      "english": "Plumbing",
+      "info": "SubCat: WATRPlmb"
+    },
+    {
+      "path": "水\\水花",
+      "new_name": "【水花】Spray",
+      "english": "Spray",
+      "info": "SubCat: WATRSpray"
+    },
+    {
+      "path": "水\\汹涌澎湃",
+      "new_name": "【汹涌澎湃】Turbulent",
+      "english": "Turbulent",
+      "info": "SubCat: WATRTurb"
+    },
+    {
+      "path": "水\\波浪",
+      "new_name": "【波浪】Wave",
+      "english": "Wave",
+      "info": "SubCat: WATRWave"
+    },
+    {
+      "path": "水\\泼洒飞溅",
+      "new_name": "【泼洒飞溅】Splash",
+      "english": "Splash",
+      "info": "SubCat: WATRSplsh"
+    },
+    {
+      "path": "水\\浪花拍岸",
+      "new_name": "【浪花拍岸】Surf",
+      "english": "Surf",
+      "info": "SubCat: WATRSurf"
+    },
+    {
+      "path": "水\\滴",
+      "new_name": "【滴】Drip",
+      "english": "Drip",
+      "info": "SubCat: WATRDrip"
+    },
+    {
+      "path": "水\\瀑布",
+      "new_name": "【瀑布】Waterfall",
+      "english": "Waterfall",
+      "info": "SubCat: WATRFall"
+    },
+    {
+      "path": "水\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: WATRMvmt"
+    },
+    {
+      "path": "水\\蒸汽",
+      "new_name": "【蒸汽】Steam",
+      "english": "Steam",
+      "info": "SubCat: WATRStm"
+    },
+    {
+      "path": "沙土\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: DIRTMisc"
+    },
+    {
+      "path": "沙土\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: DIRTHndl"
+    },
+    {
+      "path": "沙土\\灰尘",
+      "new_name": "【灰尘】Dust",
+      "english": "Dust",
+      "info": "SubCat: DIRTDust"
+    },
+    {
+      "path": "沙土\\碎屑",
+      "new_name": "【碎屑】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: DIRTCrsh"
+    },
+    {
+      "path": "沙土\\碰撞",
+      "new_name": "【碰撞】Impact",
+      "english": "Impact",
+      "info": "SubCat: DIRTImpt"
+    },
+    {
+      "path": "沙土\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: DIRTMvmt"
+    },
+    {
+      "path": "沙土\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: DIRTTonl"
+    },
+    {
+      "path": "液体与流体\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: LIQMisc"
+    },
+    {
+      "path": "液体与流体\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: LIQImpt"
+    },
+    {
+      "path": "液体与流体\\抽吸",
+      "new_name": "【抽吸】Suction",
+      "english": "Suction",
+      "info": "SubCat: LIQSuct"
+    },
+    {
+      "path": "液体与流体\\气泡",
+      "new_name": "【气泡】Bubbles",
+      "english": "Bubbles",
+      "info": "SubCat: LIQBubl"
+    },
+    {
+      "path": "液体与流体\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: LIQMvmt"
+    },
+    {
+      "path": "游戏\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: GAMEMisc"
+    },
+    {
+      "path": "游戏\\单机",
+      "new_name": "【单机】Video",
+      "english": "Video",
+      "info": "SubCat: GAMEVideo"
+    },
+    {
+      "path": "游戏\\桌游",
+      "new_name": "【桌游】Board",
+      "english": "Board",
+      "info": "SubCat: GAMEBoard"
+    },
+    {
+      "path": "游戏\\街机游戏",
+      "new_name": "【街机游戏】Arcade",
+      "english": "Arcade",
+      "info": "SubCat: GAMEArcd"
+    },
+    {
+      "path": "游戏\\赌场",
+      "new_name": "【赌场】Casino",
+      "english": "Casino",
+      "info": "SubCat: GAMECas"
+    },
+    {
+      "path": "激光\\光束",
+      "new_name": "【光束】Beam",
+      "english": "Beam",
+      "info": "SubCat: LASRBeam"
+    },
+    {
+      "path": "激光\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: LASRMisc"
+    },
+    {
+      "path": "激光\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: LASRImpt"
+    },
+    {
+      "path": "激光\\武器",
+      "new_name": "【武器】Gun",
+      "english": "Gun",
+      "info": "SubCat: LASRGun"
+    },
+    {
+      "path": "火\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FIREMisc"
+    },
+    {
+      "path": "火\\呼呼声",
+      "new_name": "【呼呼声】Whoosh",
+      "english": "Whoosh",
+      "info": "SubCat: FIREWhsh"
+    },
+    {
+      "path": "火\\气体",
+      "new_name": "【气体】Gas",
+      "english": "Gas",
+      "info": "SubCat: FIREGas"
+    },
+    {
+      "path": "火\\汹涌火势",
+      "new_name": "【汹涌火势】Turbulent",
+      "english": "Turbulent",
+      "info": "SubCat: FIRETurb"
+    },
+    {
+      "path": "火\\滋滋声",
+      "new_name": "【滋滋声】Sizzle",
+      "english": "Sizzle",
+      "info": "SubCat: FIRESizz"
+    },
+    {
+      "path": "火\\火炬",
+      "new_name": "【火炬】Torch",
+      "english": "Torch",
+      "info": "SubCat: FIRETrch"
+    },
+    {
+      "path": "火\\点火",
+      "new_name": "【点火】Ignite",
+      "english": "Ignite",
+      "info": "SubCat: FIREIgn"
+    },
+    {
+      "path": "火\\燃烧",
+      "new_name": "【燃烧】Burning",
+      "english": "Burning",
+      "info": "SubCat: FIREBurn"
+    },
+    {
+      "path": "火\\爆燃",
+      "new_name": "【爆燃】Burst",
+      "english": "Burst",
+      "info": "SubCat: FIREBrst"
+    },
+    {
+      "path": "火\\爆裂",
+      "new_name": "【爆裂】Crackle",
+      "english": "Crackle",
+      "info": "SubCat: FIRECrkl"
+    },
+    {
+      "path": "火车\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: TRNMisc"
+    },
+    {
+      "path": "火车\\内燃机车",
+      "new_name": "【内燃机车】Diesel",
+      "english": "Diesel",
+      "info": "SubCat: TRNDiesl"
+    },
+    {
+      "path": "火车\\刹车",
+      "new_name": "【刹车】Brake",
+      "english": "Brake",
+      "info": "SubCat: TRNBrake"
+    },
+    {
+      "path": "火车\\哐当",
+      "new_name": "【哐当】Clack",
+      "english": "Clack",
+      "info": "SubCat: TRNClak"
+    },
+    {
+      "path": "火车\\地铁",
+      "new_name": "【地铁】Subway",
+      "english": "Subway",
+      "info": "SubCat: TRNSbwy"
+    },
+    {
+      "path": "火车\\机械",
+      "new_name": "【机械】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: TRNMech"
+    },
+    {
+      "path": "火车\\电力机车",
+      "new_name": "【电力机车】Electric",
+      "english": "Electric",
+      "info": "SubCat: TRNElec"
+    },
+    {
+      "path": "火车\\电车",
+      "new_name": "【电车】Tram",
+      "english": "Tram",
+      "info": "SubCat: TRNTram"
+    },
+    {
+      "path": "火车\\蒸汽火车",
+      "new_name": "【蒸汽火车】Steam",
+      "english": "Steam",
+      "info": "SubCat: TRNSteam"
+    },
+    {
+      "path": "火车\\车厢内",
+      "new_name": "【车厢内】Interior",
+      "english": "Interior",
+      "info": "SubCat: TRNInt"
+    },
+    {
+      "path": "火车\\门",
+      "new_name": "【门】Door",
+      "english": "Door",
+      "info": "SubCat: TRNDoor"
+    },
+    {
+      "path": "火车\\高速列车",
+      "new_name": "【高速列车】High Speed",
+      "english": "High Speed",
+      "info": "SubCat: TRNHspd"
+    },
+    {
+      "path": "火车\\鸣笛",
+      "new_name": "【鸣笛】Horn",
+      "english": "Horn",
+      "info": "SubCat: TRNHorn"
+    },
+    {
+      "path": "烟花\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FRWKMisc"
+    },
+    {
+      "path": "烟花\\商业表演",
+      "new_name": "【商业表演】Commercial",
+      "english": "Commercial",
+      "info": "SubCat: FRWKComr"
+    },
+    {
+      "path": "烟花\\自娱",
+      "new_name": "【自娱】Recreational",
+      "english": "Recreational",
+      "info": "SubCat: FRWKRec"
+    },
+    {
+      "path": "爆炸\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: EXPLMisc"
+    },
+    {
+      "path": "爆炸\\声音设计",
+      "new_name": "【声音设计】Designed",
+      "english": "Designed",
+      "info": "SubCat: EXPLDsgn"
+    },
+    {
+      "path": "爆炸\\真实",
+      "new_name": "【真实】Real",
+      "english": "Real",
+      "info": "SubCat: EXPLReal"
+    },
+    {
+      "path": "物件\\书写用品",
+      "new_name": "【书写用品】Writing",
+      "english": "Writing",
+      "info": "SubCat: OBJWrite"
+    },
+    {
+      "path": "物件\\书籍",
+      "new_name": "【书籍】Book",
+      "english": "Book",
+      "info": "SubCat: OBJBook"
+    },
+    {
+      "path": "物件\\伞",
+      "new_name": "【伞】Umbrella",
+      "english": "Umbrella",
+      "info": "SubCat: OBJUmbr"
+    },
+    {
+      "path": "物件\\健身房",
+      "new_name": "【健身房】Gym",
+      "english": "Gym",
+      "info": "SubCat: OBJGym"
+    },
+    {
+      "path": "物件\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: OBJMisc"
+    },
+    {
+      "path": "物件\\办公设备",
+      "new_name": "【办公设备】Office",
+      "english": "Office",
+      "info": "SubCat: OBJOffc"
+    },
+    {
+      "path": "物件\\包装品",
+      "new_name": "【包装品】Packaging",
+      "english": "Packaging",
+      "info": "SubCat: OBJPack"
+    },
+    {
+      "path": "物件\\医疗",
+      "new_name": "【医疗】Medical",
+      "english": "Medical",
+      "info": "SubCat: OBJMed"
+    },
+    {
+      "path": "物件\\家具",
+      "new_name": "【家具】Furniture",
+      "english": "Furniture",
+      "info": "SubCat: OBJFurn"
+    },
+    {
+      "path": "物件\\家用品",
+      "new_name": "【家用品】Household",
+      "english": "Household",
+      "info": "SubCat: OBJHsehld"
+    },
+    {
+      "path": "物件\\拉链",
+      "new_name": "【拉链】Zipper",
+      "english": "Zipper",
+      "info": "SubCat: OBJZipr"
+    },
+    {
+      "path": "物件\\时尚",
+      "new_name": "【时尚】Fashion",
+      "english": "Fashion",
+      "info": "SubCat: OBJFash"
+    },
+    {
+      "path": "物件\\有轮制品",
+      "new_name": "【有轮制品】Wheeled",
+      "english": "Wheeled",
+      "info": "SubCat: OBJWhled"
+    },
+    {
+      "path": "物件\\珠宝首饰",
+      "new_name": "【珠宝首饰】Jewelry",
+      "english": "Jewelry",
+      "info": "SubCat: OBJJewl"
+    },
+    {
+      "path": "物件\\硬币",
+      "new_name": "【硬币】Coin",
+      "english": "Coin",
+      "info": "SubCat: OBJCoin"
+    },
+    {
+      "path": "物件\\箱盒",
+      "new_name": "【箱盒】Container",
+      "english": "Container",
+      "info": "SubCat: OBJCont"
+    },
+    {
+      "path": "物件\\胶带制品",
+      "new_name": "【胶带制品】Tape",
+      "english": "Tape",
+      "info": "SubCat: OBJTape"
+    },
+    {
+      "path": "物件\\花园",
+      "new_name": "【花园】Garden",
+      "english": "Garden",
+      "info": "SubCat: OBJGrdn"
+    },
+    {
+      "path": "物件\\行李",
+      "new_name": "【行李】Luggage",
+      "english": "Luggage",
+      "info": "SubCat: OBJLug"
+    },
+    {
+      "path": "物件\\袋子",
+      "new_name": "【袋子】Bag",
+      "english": "Bag",
+      "info": "SubCat: OBJBag"
+    },
+    {
+      "path": "物件\\钥匙",
+      "new_name": "【钥匙】Keys",
+      "english": "Keys",
+      "info": "SubCat: OBJKey"
+    },
+    {
+      "path": "玩具\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: TOYMisc"
+    },
+    {
+      "path": "玩具\\机械",
+      "new_name": "【机械】Mechanical",
+      "english": "Mechanical",
+      "info": "SubCat: TOYMech"
+    },
+    {
+      "path": "玩具\\电动",
+      "new_name": "【电动】Electronic",
+      "english": "Electronic",
+      "info": "SubCat: TOYElec"
+    },
+    {
+      "path": "环境\\交通",
+      "new_name": "【交通】Traffic",
+      "english": "Traffic",
+      "info": "SubCat: AMBTraf"
+    },
+    {
+      "path": "环境\\交通工具",
+      "new_name": "【交通工具】Transportation",
+      "english": "Transportation",
+      "info": "SubCat: AMBTran"
+    },
+    {
+      "path": "环境\\住宅区",
+      "new_name": "【住宅区】Residential",
+      "english": "Residential",
+      "info": "SubCat: AMBHome"
+    },
+    {
+      "path": "环境\\公共场所",
+      "new_name": "【公共场所】Public Place",
+      "english": "Public Place",
+      "info": "SubCat: AMBPubl"
+    },
+    {
+      "path": "环境\\公园",
+      "new_name": "【公园】Park",
+      "english": "Park",
+      "info": "SubCat: AMBPark"
+    },
+    {
+      "path": "环境\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: AMBMisc"
+    },
+    {
+      "path": "环境\\农场",
+      "new_name": "【农场】Farm",
+      "english": "Farm",
+      "info": "SubCat: AMBFarm"
+    },
+    {
+      "path": "环境\\农村",
+      "new_name": "【农村】Rural",
+      "english": "Rural",
+      "info": "SubCat: AMBRurl"
+    },
+    {
+      "path": "环境\\冻土",
+      "new_name": "【冻土】Tundra",
+      "english": "Tundra",
+      "info": "SubCat: AMBTndra"
+    },
+    {
+      "path": "环境\\办公室",
+      "new_name": "【办公室】Office",
+      "english": "Office",
+      "info": "SubCat: AMBOffc"
+    },
+    {
+      "path": "环境\\医院",
+      "new_name": "【医院】Hospital",
+      "english": "Hospital",
+      "info": "SubCat: AMBHosp"
+    },
+    {
+      "path": "环境\\历史年代",
+      "new_name": "【历史年代】Historical",
+      "english": "Historical",
+      "info": "SubCat: AMBHist"
+    },
+    {
+      "path": "环境\\地下",
+      "new_name": "【地下】Underground",
+      "english": "Underground",
+      "info": "SubCat: AMBUndr"
+    },
+    {
+      "path": "环境\\城市",
+      "new_name": "【城市】Urban",
+      "english": "Urban",
+      "info": "SubCat: AMBUrbn"
+    },
+    {
+      "path": "环境\\奇幻",
+      "new_name": "【奇幻】Fantasy",
+      "english": "Fantasy",
+      "info": "SubCat: AMBFant"
+    },
+    {
+      "path": "环境\\娱乐",
+      "new_name": "【娱乐】Amusement",
+      "english": "Amusement",
+      "info": "SubCat: AMBAmus"
+    },
+    {
+      "path": "环境\\宗教场所",
+      "new_name": "【宗教场所】Religious",
+      "english": "Religious",
+      "info": "SubCat: AMBRlgn"
+    },
+    {
+      "path": "环境\\小镇",
+      "new_name": "【小镇】Town",
+      "english": "Town",
+      "info": "SubCat: AMBTown"
+    },
+    {
+      "path": "环境\\工业",
+      "new_name": "【工业】Industrial",
+      "english": "Industrial",
+      "info": "SubCat: AMBInd"
+    },
+    {
+      "path": "环境\\市场",
+      "new_name": "【市场】Market",
+      "english": "Market",
+      "info": "SubCat: AMBMrkt"
+    },
+    {
+      "path": "环境\\庆典",
+      "new_name": "【庆典】Celebration",
+      "english": "Celebration",
+      "info": "SubCat: AMBCele"
+    },
+    {
+      "path": "环境\\战争",
+      "new_name": "【战争】Warfare",
+      "english": "Warfare",
+      "info": "SubCat: AMBWar"
+    },
+    {
+      "path": "环境\\房间底噪",
+      "new_name": "【房间底噪】Room Tone",
+      "english": "Room Tone",
+      "info": "SubCat: AMBRoom"
+    },
+    {
+      "path": "环境\\施工",
+      "new_name": "【施工】Construction",
+      "english": "Construction",
+      "info": "SubCat: AMBCnst"
+    },
+    {
+      "path": "环境\\昆虫",
+      "new_name": "【昆虫】Insect",
+      "english": "Insect",
+      "info": "SubCat: AMBInsc"
+    },
+    {
+      "path": "环境\\校园",
+      "new_name": "【校园】School",
+      "english": "School",
+      "info": "SubCat: AMBSchl"
+    },
+    {
+      "path": "环境\\森林",
+      "new_name": "【森林】Forest",
+      "english": "Forest",
+      "info": "SubCat: AMBForst"
+    },
+    {
+      "path": "环境\\水下",
+      "new_name": "【水下】Underwater",
+      "english": "Underwater",
+      "info": "SubCat: AMBUndwtr"
+    },
+    {
+      "path": "环境\\沙漠",
+      "new_name": "【沙漠】Desert",
+      "english": "Desert",
+      "info": "SubCat: AMBDsrt"
+    },
+    {
+      "path": "环境\\沼泽地",
+      "new_name": "【沼泽地】Swamp",
+      "english": "Swamp",
+      "info": "SubCat: AMBSwmp"
+    },
+    {
+      "path": "环境\\海边",
+      "new_name": "【海边】Seaside",
+      "english": "Seaside",
+      "info": "SubCat: AMBSea"
+    },
+    {
+      "path": "环境\\游行",
+      "new_name": "【游行】Protest",
+      "english": "Protest",
+      "info": "SubCat: AMBPrtst"
+    },
+    {
+      "path": "环境\\湖岸",
+      "new_name": "【湖岸】Lakeside",
+      "english": "Lakeside",
+      "info": "SubCat: AMBLake"
+    },
+    {
+      "path": "环境\\热带",
+      "new_name": "【热带】Tropical",
+      "english": "Tropical",
+      "info": "SubCat: AMBTrop"
+    },
+    {
+      "path": "环境\\监狱",
+      "new_name": "【监狱】Prison",
+      "english": "Prison",
+      "info": "SubCat: AMBPrisn"
+    },
+    {
+      "path": "环境\\科幻",
+      "new_name": "【科幻】Scifi",
+      "english": "Scifi",
+      "info": "SubCat: AMBSci"
+    },
+    {
+      "path": "环境\\空气",
+      "new_name": "【空气】Air",
+      "english": "Air",
+      "info": "SubCat: AMBAir"
+    },
+    {
+      "path": "环境\\紧急",
+      "new_name": "【紧急】Emergency",
+      "english": "Emergency",
+      "info": "SubCat: AMBEmrg"
+    },
+    {
+      "path": "环境\\航海",
+      "new_name": "【航海】Nautical",
+      "english": "Nautical",
+      "info": "SubCat: AMBNaut"
+    },
+    {
+      "path": "环境\\草地",
+      "new_name": "【草地】Grassland",
+      "english": "Grassland",
+      "info": "SubCat: AMBGras"
+    },
+    {
+      "path": "环境\\设计",
+      "new_name": "【设计】Designed",
+      "english": "Designed",
+      "info": "SubCat: AMBDsgn"
+    },
+    {
+      "path": "环境\\运动场",
+      "new_name": "【运动场】Sport",
+      "english": "Sport",
+      "info": "SubCat: AMBSprt"
+    },
+    {
+      "path": "环境\\郊区",
+      "new_name": "【郊区】Suburban",
+      "english": "Suburban",
+      "info": "SubCat: AMBSubn"
+    },
+    {
+      "path": "环境\\餐馆",
+      "new_name": "【餐馆】Restaurant & Bar",
+      "english": "Restaurant & Bar",
+      "info": "SubCat: AMBRest"
+    },
+    {
+      "path": "环境\\高山",
+      "new_name": "【高山】Alpine",
+      "english": "Alpine",
+      "info": "SubCat: AMBAlpn"
+    },
+    {
+      "path": "环境\\高科技",
+      "new_name": "【高科技】Hitech",
+      "english": "Hitech",
+      "info": "SubCat: AMBTech"
+    },
+    {
+      "path": "环境\\鸟鸣",
+      "new_name": "【鸟鸣】Birdsong",
+      "english": "Birdsong",
+      "info": "SubCat: AMBBird"
+    },
+    {
+      "path": "玻璃\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: GLASMisc"
+    },
+    {
+      "path": "玻璃\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: GLASImpt"
+    },
+    {
+      "path": "玻璃\\打破",
+      "new_name": "【打破】Break",
+      "english": "Break",
+      "info": "SubCat: GLASBrk"
+    },
+    {
+      "path": "玻璃\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: GLASHndl"
+    },
+    {
+      "path": "玻璃\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: GLASFric"
+    },
+    {
+      "path": "玻璃\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: GLASCrsh"
+    },
+    {
+      "path": "玻璃\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: GLASMvmt"
+    },
+    {
+      "path": "玻璃\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: GLASTonl"
+    },
+    {
+      "path": "生物\\人声包",
+      "new_name": "【人声包】Source",
+      "english": "Source",
+      "info": "SubCat: CREASrce"
+    },
+    {
+      "path": "生物\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CREAMisc"
+    },
+    {
+      "path": "生物\\奇幻禽类",
+      "new_name": "【奇幻禽类】Avian",
+      "english": "Avian",
+      "info": "SubCat: CREAAvian"
+    },
+    {
+      "path": "生物\\小型神话生物",
+      "new_name": "【小型神话生物】Small",
+      "english": "Small",
+      "info": "SubCat: CREASmall"
+    },
+    {
+      "path": "生物\\巨型昆虫",
+      "new_name": "【巨型昆虫】Insectoid",
+      "english": "Insectoid",
+      "info": "SubCat: CREAInsc"
+    },
+    {
+      "path": "生物\\巨型爬行生物",
+      "new_name": "【巨型爬行生物】Reptilian",
+      "english": "Reptilian",
+      "info": "SubCat: CREARept"
+    },
+    {
+      "path": "生物\\怪兽",
+      "new_name": "【怪兽】Monster",
+      "english": "Monster",
+      "info": "SubCat: CREAMnstr"
+    },
+    {
+      "path": "生物\\恐龙",
+      "new_name": "【恐龙】Dinosaur",
+      "english": "Dinosaur",
+      "info": "SubCat: CREADino"
+    },
+    {
+      "path": "生物\\水生",
+      "new_name": "【水生】Aquatic",
+      "english": "Aquatic",
+      "info": "SubCat: CREAAqua"
+    },
+    {
+      "path": "生物\\类人动物",
+      "new_name": "【类人动物】Humanoid",
+      "english": "Humanoid",
+      "info": "SubCat: CREAHmn"
+    },
+    {
+      "path": "生物\\精灵生物",
+      "new_name": "【精灵生物】Elemental",
+      "english": "Elemental",
+      "info": "SubCat: CREAElem"
+    },
+    {
+      "path": "生物\\野兽",
+      "new_name": "【野兽】Beast",
+      "english": "Beast",
+      "info": "SubCat: CREABeast"
+    },
+    {
+      "path": "生物\\鬼魂",
+      "new_name": "【鬼魂】Ethereal",
+      "english": "Ethereal",
+      "info": "SubCat: CREAEthr"
+    },
+    {
+      "path": "生物\\黏体生物",
+      "new_name": "【黏体生物】Blob",
+      "english": "Blob",
+      "info": "SubCat: CREABlob"
+    },
+    {
+      "path": "生物\\龙",
+      "new_name": "【龙】Dragon",
+      "english": "Dragon",
+      "info": "SubCat: CREADrgn"
+    },
+    {
+      "path": "用户界面\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: UIMisc"
+    },
+    {
+      "path": "用户界面\\动态",
+      "new_name": "【动态】Motion",
+      "english": "Motion",
+      "info": "SubCat: UIMvmt"
+    },
+    {
+      "path": "用户界面\\提示音",
+      "new_name": "【提示音】Beep",
+      "english": "Beep",
+      "info": "SubCat: UIBeep"
+    },
+    {
+      "path": "用户界面\\故障",
+      "new_name": "【故障】Glitch",
+      "english": "Glitch",
+      "info": "SubCat: UIGlitch"
+    },
+    {
+      "path": "用户界面\\数据",
+      "new_name": "【数据】Data",
+      "english": "Data",
+      "info": "SubCat: UIData"
+    },
+    {
+      "path": "用户界面\\点击",
+      "new_name": "【点击】Click",
+      "english": "Click",
+      "info": "SubCat: UIClick"
+    },
+    {
+      "path": "用户界面\\警告",
+      "new_name": "【警告】Alert",
+      "english": "Alert",
+      "info": "SubCat: UIAlert"
+    },
+    {
+      "path": "电流\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ELECMisc"
+    },
+    {
+      "path": "电流\\漏电",
+      "new_name": "【漏电】Zap",
+      "english": "Zap",
+      "info": "SubCat: ELECZap"
+    },
+    {
+      "path": "电流\\电弧",
+      "new_name": "【电弧】Arc",
+      "english": "Arc",
+      "info": "SubCat: ELECArc"
+    },
+    {
+      "path": "电流\\电流噪声",
+      "new_name": "【电流噪声】Buzz & Hum",
+      "english": "Buzz & Hum",
+      "info": "SubCat: ELECBuzz"
+    },
+    {
+      "path": "电流\\电火花",
+      "new_name": "【电火花】Sparks",
+      "english": "Sparks",
+      "info": "SubCat: ELECSprk"
+    },
+    {
+      "path": "电流\\电磁",
+      "new_name": "【电磁】Electromagnetic",
+      "english": "Electromagnetic",
+      "info": "SubCat: ELECEmf"
+    },
+    {
+      "path": "电脑\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CMPTMisc"
+    },
+    {
+      "path": "电脑\\硬盘",
+      "new_name": "【硬盘】Hard Drive",
+      "english": "Hard Drive",
+      "info": "SubCat: CMPTDriv"
+    },
+    {
+      "path": "电脑\\键鼠",
+      "new_name": "【键鼠】Keyboard & Mouse",
+      "english": "Keyboard & Mouse",
+      "info": "SubCat: CMPTKey"
+    },
+    {
+      "path": "皮革\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: LETHRMisc"
+    },
+    {
+      "path": "皮革\\嘎吱",
+      "new_name": "【嘎吱】Creak",
+      "english": "Creak",
+      "info": "SubCat: LETHRCreak"
+    },
+    {
+      "path": "皮革\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: LETHRImpt"
+    },
+    {
+      "path": "皮革\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: LETHRHndl"
+    },
+    {
+      "path": "皮革\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: LETHRMvmt"
+    },
+    {
+      "path": "科幻\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: SCIMisc"
+    },
+    {
+      "path": "科幻\\复古",
+      "new_name": "【复古】Retro",
+      "english": "Retro",
+      "info": "SubCat: SCIRetro"
+    },
+    {
+      "path": "科幻\\太空船",
+      "new_name": "【太空船】Spaceship",
+      "english": "Spaceship",
+      "info": "SubCat: SCIShip"
+    },
+    {
+      "path": "科幻\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: SCIImpt"
+    },
+    {
+      "path": "科幻\\机械",
+      "new_name": "【机械】Machine",
+      "english": "Machine",
+      "info": "SubCat: SCIMach"
+    },
+    {
+      "path": "科幻\\机械设备",
+      "new_name": "【机械设备】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: SCIMech"
+    },
+    {
+      "path": "科幻\\武器",
+      "new_name": "【武器】Weapon",
+      "english": "Weapon",
+      "info": "SubCat: SCIWeap"
+    },
+    {
+      "path": "科幻\\电脑",
+      "new_name": "【电脑】Computer",
+      "english": "Computer",
+      "info": "SubCat: SCICmpt"
+    },
+    {
+      "path": "科幻\\能量",
+      "new_name": "【能量】Energy",
+      "english": "Energy",
+      "info": "SubCat: SCIEnrg"
+    },
+    {
+      "path": "科幻\\警报",
+      "new_name": "【警报】Alarm",
+      "english": "Alarm",
+      "info": "SubCat: SCIAlrm"
+    },
+    {
+      "path": "科幻\\载具",
+      "new_name": "【载具】Vehicle",
+      "english": "Vehicle",
+      "info": "SubCat: SCIVeh"
+    },
+    {
+      "path": "科幻\\门",
+      "new_name": "【门】Door",
+      "english": "Door",
+      "info": "SubCat: SCIDoor"
+    },
+    {
+      "path": "移动\\人类",
+      "new_name": "【人类】Human",
+      "english": "Human",
+      "info": "SubCat: MOVEHmn"
+    },
+    {
+      "path": "移动\\人群",
+      "new_name": "【人群】Crowd",
+      "english": "Crowd",
+      "info": "SubCat: MOVECrwd"
+    },
+    {
+      "path": "移动\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MOVEMisc"
+    },
+    {
+      "path": "移动\\动物",
+      "new_name": "【动物】Animal",
+      "english": "Animal",
+      "info": "SubCat: MOVEAnml"
+    },
+    {
+      "path": "移动\\昆虫",
+      "new_name": "【昆虫】Insect",
+      "english": "Insect",
+      "info": "SubCat: MOVEInsc"
+    },
+    {
+      "path": "移动\\活动",
+      "new_name": "【活动】Activity",
+      "english": "Activity",
+      "info": "SubCat: MOVEActv"
+    },
+    {
+      "path": "移动\\状态",
+      "new_name": "【状态】Presence",
+      "english": "Presence",
+      "info": "SubCat: MOVEPres"
+    },
+    {
+      "path": "移动\\生物",
+      "new_name": "【生物】Creature",
+      "english": "Creature",
+      "info": "SubCat: MOVECrea"
+    },
+    {
+      "path": "窗户\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WNDWMisc"
+    },
+    {
+      "path": "窗户\\塑料",
+      "new_name": "【塑料】Plastic",
+      "english": "Plastic",
+      "info": "SubCat: WNDWPlas"
+    },
+    {
+      "path": "窗户\\敲窗",
+      "new_name": "【敲窗】Knock",
+      "english": "Knock",
+      "info": "SubCat: WNDWKnck"
+    },
+    {
+      "path": "窗户\\木质",
+      "new_name": "【木质】Wood",
+      "english": "Wood",
+      "info": "SubCat: WNDWWood"
+    },
+    {
+      "path": "窗户\\窗具",
+      "new_name": "【窗具】Hardware",
+      "english": "Hardware",
+      "info": "SubCat: WNDWHdwr"
+    },
+    {
+      "path": "窗户\\遮挡物",
+      "new_name": "【遮挡物】Covering",
+      "english": "Covering",
+      "info": "SubCat: WNDWCover"
+    },
+    {
+      "path": "窗户\\金属",
+      "new_name": "【金属】Metal",
+      "english": "Metal",
+      "info": "SubCat: WNDWMetl"
+    },
+    {
+      "path": "纸张\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: PAPRMisc"
+    },
+    {
+      "path": "纸张\\手持噪音",
+      "new_name": "【手持噪音】Handle",
+      "english": "Handle",
+      "info": "SubCat: PAPRHndl"
+    },
+    {
+      "path": "纸张\\抖动",
+      "new_name": "【抖动】Flutter",
+      "english": "Flutter",
+      "info": "SubCat: PAPRFltr"
+    },
+    {
+      "path": "纸张\\摩擦",
+      "new_name": "【摩擦】Impact",
+      "english": "Impact",
+      "info": "SubCat: PAPRImpt"
+    },
+    {
+      "path": "纸张\\撕扯",
+      "new_name": "【撕扯】Rip",
+      "english": "Rip",
+      "info": "SubCat: PAPRRip"
+    },
+    {
+      "path": "纸张\\碰撞",
+      "new_name": "【碰撞】Friction",
+      "english": "Friction",
+      "info": "SubCat: PAPRFric"
+    },
+    {
+      "path": "纸张\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: PAPRTonl"
+    },
+    {
+      "path": "绳索\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ROPEMisc"
+    },
+    {
+      "path": "绳索\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: ROPEImpt"
+    },
+    {
+      "path": "绳索\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: ROPEHndl"
+    },
+    {
+      "path": "绳索\\拉扯",
+      "new_name": "【拉扯】Creak",
+      "english": "Creak",
+      "info": "SubCat: ROPECreak"
+    },
+    {
+      "path": "绳索\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: ROPEMvmt"
+    },
+    {
+      "path": "翅膀\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: WINGMisc"
+    },
+    {
+      "path": "翅膀\\昆虫",
+      "new_name": "【昆虫】Insect",
+      "english": "Insect",
+      "info": "SubCat: WINGInsc"
+    },
+    {
+      "path": "翅膀\\生物",
+      "new_name": "【生物】Creature",
+      "english": "Creature",
+      "info": "SubCat: WINGCrea"
+    },
+    {
+      "path": "翅膀\\鸟",
+      "new_name": "【鸟】Bird",
+      "english": "Bird",
+      "info": "SubCat: WINGBird"
+    },
+    {
+      "path": "脚步\\人类",
+      "new_name": "【人类】Human",
+      "english": "Human",
+      "info": "SubCat: FEETHmn"
+    },
+    {
+      "path": "脚步\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FEETMisc"
+    },
+    {
+      "path": "脚步\\动物",
+      "new_name": "【动物】Animal",
+      "english": "Animal",
+      "info": "SubCat: FEETAnml"
+    },
+    {
+      "path": "脚步\\怪物",
+      "new_name": "【怪物】Creature",
+      "english": "Creature",
+      "info": "SubCat: FEETCrea"
+    },
+    {
+      "path": "脚步\\马",
+      "new_name": "【马】Horse",
+      "english": "Horse",
+      "info": "SubCat: FEETHors"
+    },
+    {
+      "path": "自然灾害\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: NATDMisc"
+    },
+    {
+      "path": "自然灾害\\台风",
+      "new_name": "【台风】Typhoon",
+      "english": "Typhoon",
+      "info": "SubCat: NATDThyp"
+    },
+    {
+      "path": "自然灾害\\地震",
+      "new_name": "【地震】Earthquake",
+      "english": "Earthquake",
+      "info": "SubCat: NATDQuak"
+    },
+    {
+      "path": "自然灾害\\火山喷发",
+      "new_name": "【火山喷发】Volcano",
+      "english": "Volcano",
+      "info": "SubCat: NATDVolc"
+    },
+    {
+      "path": "自然灾害\\热带风暴",
+      "new_name": "【热带风暴】Tsunami",
+      "english": "Tsunami",
+      "info": "SubCat: NATDTsun"
+    },
+    {
+      "path": "自然灾害\\雪崩",
+      "new_name": "【雪崩】Avalanche",
+      "english": "Avalanche",
+      "info": "SubCat: NATDAval"
+    },
+    {
+      "path": "自然灾害\\龙卷风",
+      "new_name": "【龙卷风】Tornado",
+      "english": "Tornado",
+      "info": "SubCat: NATDTorn"
+    },
+    {
+      "path": "航空器\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: AEROMisc"
+    },
+    {
+      "path": "航空器\\军用",
+      "new_name": "【军用】Military",
+      "english": "Military",
+      "info": "SubCat: AEROMil"
+    },
+    {
+      "path": "航空器\\喷气式飞机",
+      "new_name": "【喷气式飞机】Jet",
+      "english": "Jet",
+      "info": "SubCat: AEROJet"
+    },
+    {
+      "path": "航空器\\塔台",
+      "new_name": "【塔台】Radio Controlled",
+      "english": "Radio Controlled",
+      "info": "SubCat: AERORadio"
+    },
+    {
+      "path": "航空器\\机械",
+      "new_name": "【机械】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: AEROMech"
+    },
+    {
+      "path": "航空器\\火箭",
+      "new_name": "【火箭】Rocket",
+      "english": "Rocket",
+      "info": "SubCat: AERORckt"
+    },
+    {
+      "path": "航空器\\直升机",
+      "new_name": "【直升机】Helicopter",
+      "english": "Helicopter",
+      "info": "SubCat: AEROHeli"
+    },
+    {
+      "path": "航空器\\航空舱",
+      "new_name": "【航空舱】Interior",
+      "english": "Interior",
+      "info": "SubCat: AEROInt"
+    },
+    {
+      "path": "航空器\\螺旋桨飞机",
+      "new_name": "【螺旋桨飞机】Prop",
+      "english": "Prop",
+      "info": "SubCat: AEROProp"
+    },
+    {
+      "path": "航空器\\门",
+      "new_name": "【门】Door",
+      "english": "Door",
+      "info": "SubCat: AERODoor"
+    },
+    {
+      "path": "船舶\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: BOATMisc"
+    },
+    {
+      "path": "船舶\\军用",
+      "new_name": "【军用】Military",
+      "english": "Military",
+      "info": "SubCat: BOATMil"
+    },
+    {
+      "path": "船舶\\划艇",
+      "new_name": "【划艇】Rowboat",
+      "english": "Rowboat",
+      "info": "SubCat: BOATRow"
+    },
+    {
+      "path": "船舶\\大船",
+      "new_name": "【大船】Ship",
+      "english": "Ship",
+      "info": "SubCat: BOATShip"
+    },
+    {
+      "path": "船舶\\帆船",
+      "new_name": "【帆船】Sailboat",
+      "english": "Sailboat",
+      "info": "SubCat: BOATSail"
+    },
+    {
+      "path": "船舶\\捕鱼",
+      "new_name": "【捕鱼】Fishing",
+      "english": "Fishing",
+      "info": "SubCat: BOATFish"
+    },
+    {
+      "path": "船舶\\摩托艇",
+      "new_name": "【摩托艇】Motorboat",
+      "english": "Motorboat",
+      "info": "SubCat: BOATMotr"
+    },
+    {
+      "path": "船舶\\机械",
+      "new_name": "【机械】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: BOATMech"
+    },
+    {
+      "path": "船舶\\水下",
+      "new_name": "【水下】Underwater",
+      "english": "Underwater",
+      "info": "SubCat: BOATUndwtr"
+    },
+    {
+      "path": "船舶\\汽艇",
+      "new_name": "【汽艇】Air Boat",
+      "english": "Air Boat",
+      "info": "SubCat: BOATAir"
+    },
+    {
+      "path": "船舶\\潜艇",
+      "new_name": "【潜艇】Submarine",
+      "english": "Submarine",
+      "info": "SubCat: BOATSub"
+    },
+    {
+      "path": "船舶\\电动船",
+      "new_name": "【电动船】Electric",
+      "english": "Electric",
+      "info": "SubCat: BOATElec"
+    },
+    {
+      "path": "船舶\\船浪",
+      "new_name": "【船浪】Bow Wash",
+      "english": "Bow Wash",
+      "info": "SubCat: BOATWash"
+    },
+    {
+      "path": "船舶\\船笛",
+      "new_name": "【船笛】Horn",
+      "english": "Horn",
+      "info": "SubCat: BOATHorn"
+    },
+    {
+      "path": "船舶\\蒸汽船",
+      "new_name": "【蒸汽船】Steam",
+      "english": "Steam",
+      "info": "SubCat: BOATStm"
+    },
+    {
+      "path": "船舶\\赛艇",
+      "new_name": "【赛艇】Racing",
+      "english": "Racing",
+      "info": "SubCat: BOATRace"
+    },
+    {
+      "path": "船舶\\门",
+      "new_name": "【门】Door",
+      "english": "Door",
+      "info": "SubCat: BOATDoor"
+    },
+    {
+      "path": "血\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: GOREMisc"
+    },
+    {
+      "path": "血\\原始录音",
+      "new_name": "【原始录音】Source",
+      "english": "Source",
+      "info": "SubCat: GORESrce"
+    },
+    {
+      "path": "血\\捅",
+      "new_name": "【捅】Stab",
+      "english": "Stab",
+      "info": "SubCat: GOREStab"
+    },
+    {
+      "path": "血\\洒溅",
+      "new_name": "【洒溅】Splat",
+      "english": "Splat",
+      "info": "SubCat: GORESplt"
+    },
+    {
+      "path": "血\\渗血",
+      "new_name": "【渗血】Ooze",
+      "english": "Ooze",
+      "info": "SubCat: GOREOoze"
+    },
+    {
+      "path": "血\\燃烧",
+      "new_name": "【燃烧】Burn",
+      "english": "Burn",
+      "info": "SubCat: GOREBurn"
+    },
+    {
+      "path": "血\\血流",
+      "new_name": "【血流】Blood",
+      "english": "Blood",
+      "info": "SubCat: GOREBlood"
+    },
+    {
+      "path": "血\\血浆",
+      "new_name": "【血浆】Squish",
+      "english": "Squish",
+      "info": "SubCat: GORESqsh"
+    },
+    {
+      "path": "血\\血肉",
+      "new_name": "【血肉】Flesh",
+      "english": "Flesh",
+      "info": "SubCat: GOREFlsh"
+    },
+    {
+      "path": "血\\骨头",
+      "new_name": "【骨头】Bone",
+      "english": "Bone",
+      "info": "SubCat: GOREBone"
+    },
+    {
+      "path": "警报\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: ALRMMisc"
+    },
+    {
+      "path": "警报\\电器",
+      "new_name": "【电器】Electronic",
+      "english": "Electronic",
+      "info": "SubCat: ALRMElec"
+    },
+    {
+      "path": "警报\\蜂鸣器",
+      "new_name": "【蜂鸣器】Buzzer",
+      "english": "Buzzer",
+      "info": "SubCat: ALRMBuzr"
+    },
+    {
+      "path": "警报\\警报",
+      "new_name": "【警报】Siren",
+      "english": "Siren",
+      "info": "SubCat: ALRMSirn"
+    },
+    {
+      "path": "警报\\警铃",
+      "new_name": "【警铃】Bell",
+      "english": "Bell",
+      "info": "SubCat: ALRMBell"
+    },
+    {
+      "path": "警报\\钟表",
+      "new_name": "【钟表】Clock",
+      "english": "Clock",
+      "info": "SubCat: ALRMClok"
+    },
+    {
+      "path": "语音\\儿童",
+      "new_name": "【儿童】Child",
+      "english": "Child",
+      "info": "SubCat: VOXChld"
+    },
+    {
+      "path": "语音\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: VOXMisc"
+    },
+    {
+      "path": "语音\\历史感",
+      "new_name": "【历史感】Historical",
+      "english": "Historical",
+      "info": "SubCat: VOXHist"
+    },
+    {
+      "path": "语音\\反应",
+      "new_name": "【反应】Reaction",
+      "english": "Reaction",
+      "info": "SubCat: VOXReac"
+    },
+    {
+      "path": "语音\\呼喝",
+      "new_name": "【呼喝】Efforts",
+      "english": "Efforts",
+      "info": "SubCat: VOXEfrt"
+    },
+    {
+      "path": "语音\\哭泣",
+      "new_name": "【哭泣】Crying",
+      "english": "Crying",
+      "info": "SubCat: VOXCry"
+    },
+    {
+      "path": "语音\\外星人",
+      "new_name": "【外星人】Alien",
+      "english": "Alien",
+      "info": "SubCat: VOXAlien"
+    },
+    {
+      "path": "语音\\女性",
+      "new_name": "【女性】Female",
+      "english": "Female",
+      "info": "SubCat: VOXFem"
+    },
+    {
+      "path": "语音\\婴儿",
+      "new_name": "【婴儿】Baby",
+      "english": "Baby",
+      "info": "SubCat: VOXBaby"
+    },
+    {
+      "path": "语音\\尖叫",
+      "new_name": "【尖叫】Scream",
+      "english": "Scream",
+      "info": "SubCat: VOXScrm"
+    },
+    {
+      "path": "语音\\欢呼",
+      "new_name": "【欢呼】Cheer",
+      "english": "Cheer",
+      "info": "SubCat: VOXCheer"
+    },
+    {
+      "path": "语音\\歌唱",
+      "new_name": "【歌唱】Singing",
+      "english": "Singing",
+      "info": "SubCat: VOXSing"
+    },
+    {
+      "path": "语音\\男性",
+      "new_name": "【男性】Male",
+      "english": "Male",
+      "info": "SubCat: VOXMale"
+    },
+    {
+      "path": "语音\\窃语",
+      "new_name": "【窃语】Whisper",
+      "english": "Whisper",
+      "info": "SubCat: VOXWhsp"
+    },
+    {
+      "path": "语音\\笑",
+      "new_name": "【笑】Laugh",
+      "english": "Laugh",
+      "info": "SubCat: VOXLaff"
+    },
+    {
+      "path": "语音\\音响化",
+      "new_name": "【音响化】Futzed",
+      "english": "Futzed",
+      "info": "SubCat: VOXFutz"
+    },
+    {
+      "path": "车辆\\全地形车",
+      "new_name": "【全地形车】Atv",
+      "english": "Atv",
+      "info": "SubCat: VEHAtv"
+    },
+    {
+      "path": "车辆\\公交车",
+      "new_name": "【公交车】Bus",
+      "english": "Bus",
+      "info": "SubCat: VEHBus"
+    },
+    {
+      "path": "车辆\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: VEHMisc"
+    },
+    {
+      "path": "车辆\\军用",
+      "new_name": "【军用】Military",
+      "english": "Military",
+      "info": "SubCat: VEHMil"
+    },
+    {
+      "path": "车辆\\农场",
+      "new_name": "【农场】Farm",
+      "english": "Farm",
+      "info": "SubCat: VEHFarm"
+    },
+    {
+      "path": "车辆\\刹车",
+      "new_name": "【刹车】Brake",
+      "english": "Brake",
+      "info": "SubCat: VEHBrake"
+    },
+    {
+      "path": "车辆\\厢式车",
+      "new_name": "【厢式车】Truck Van & Suv",
+      "english": "Truck Van & Suv",
+      "info": "SubCat: VEHTruck"
+    },
+    {
+      "path": "车辆\\古董车",
+      "new_name": "【古董车】Antique",
+      "english": "Antique",
+      "info": "SubCat: VEHAntq"
+    },
+    {
+      "path": "车辆\\工具",
+      "new_name": "【工具】Utility",
+      "english": "Utility",
+      "info": "SubCat: VEHUtil"
+    },
+    {
+      "path": "车辆\\工程车",
+      "new_name": "【工程车】Construction",
+      "english": "Construction",
+      "info": "SubCat: VEHCnst"
+    },
+    {
+      "path": "车辆\\悬挂",
+      "new_name": "【悬挂】Suspension",
+      "english": "Suspension",
+      "info": "SubCat: VEHSusp"
+    },
+    {
+      "path": "车辆\\摩托车",
+      "new_name": "【摩托车】Motorcycle",
+      "english": "Motorcycle",
+      "info": "SubCat: VEHMoto"
+    },
+    {
+      "path": "车辆\\汽车",
+      "new_name": "【汽车】Car",
+      "english": "Car",
+      "info": "SubCat: VEHCar"
+    },
+    {
+      "path": "车辆\\熄火",
+      "new_name": "【熄火】Jalopy",
+      "english": "Jalopy",
+      "info": "SubCat: VEHJalop"
+    },
+    {
+      "path": "车辆\\电动",
+      "new_name": "【电动】Electric",
+      "english": "Electric",
+      "info": "SubCat: VEHElec"
+    },
+    {
+      "path": "车辆\\窗",
+      "new_name": "【窗】Window",
+      "english": "Window",
+      "info": "SubCat: VEHWndw"
+    },
+    {
+      "path": "车辆\\紧急状态",
+      "new_name": "【紧急状态】Emergency",
+      "english": "Emergency",
+      "info": "SubCat: VEHEmrg"
+    },
+    {
+      "path": "车辆\\自行车",
+      "new_name": "【自行车】Bicycle",
+      "english": "Bicycle",
+      "info": "SubCat: VEHBike"
+    },
+    {
+      "path": "车辆\\警报",
+      "new_name": "【警报】Alarm",
+      "english": "Alarm",
+      "info": "SubCat: VEHAlrm"
+    },
+    {
+      "path": "车辆\\警报车辆",
+      "new_name": "【警报车辆】Siren",
+      "english": "Siren",
+      "info": "SubCat: VEHSirn"
+    },
+    {
+      "path": "车辆\\设施",
+      "new_name": "【设施】Mechanism",
+      "english": "Mechanism",
+      "info": "SubCat: VEHMech"
+    },
+    {
+      "path": "车辆\\货车",
+      "new_name": "【货车】Freight",
+      "english": "Freight",
+      "info": "SubCat: VEHFrght"
+    },
+    {
+      "path": "车辆\\赛车",
+      "new_name": "【赛车】Racing",
+      "english": "Racing",
+      "info": "SubCat: VEHRace"
+    },
+    {
+      "path": "车辆\\车内",
+      "new_name": "【车内】Interior",
+      "english": "Interior",
+      "info": "SubCat: VEHInt"
+    },
+    {
+      "path": "车辆\\轮胎打滑",
+      "new_name": "【轮胎打滑】Tire",
+      "english": "Tire",
+      "info": "SubCat: VEHTire"
+    },
+    {
+      "path": "车辆\\轮胎摩擦",
+      "new_name": "【轮胎摩擦】Skid",
+      "english": "Skid",
+      "info": "SubCat: VEHSkid"
+    },
+    {
+      "path": "车辆\\通用驰过",
+      "new_name": "【通用驰过】Generic By",
+      "english": "Generic By",
+      "info": "SubCat: VEHBy"
+    },
+    {
+      "path": "车辆\\门",
+      "new_name": "【门】Door",
+      "english": "Door",
+      "info": "SubCat: VEHDoor"
+    },
+    {
+      "path": "车辆\\马车",
+      "new_name": "【马车】Wagon",
+      "english": "Wagon",
+      "info": "SubCat: VEHWagn"
+    },
+    {
+      "path": "车辆\\鸣笛",
+      "new_name": "【鸣笛】Horn",
+      "english": "Horn",
+      "info": "SubCat: VEHHorn"
+    },
+    {
+      "path": "运动\\健身",
+      "new_name": "【健身】Gym",
+      "english": "Gym",
+      "info": "SubCat: SPRTGym"
+    },
+    {
+      "path": "运动\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: SPRTMisc"
+    },
+    {
+      "path": "运动\\冬季运动",
+      "new_name": "【冬季运动】Winter",
+      "english": "Winter",
+      "info": "SubCat: SPRTWntr"
+    },
+    {
+      "path": "运动\\冰上运动",
+      "new_name": "【冰上运动】Skate",
+      "english": "Skate",
+      "info": "SubCat: SPRTSkate"
+    },
+    {
+      "path": "运动\\室内运动",
+      "new_name": "【室内运动】Indoor",
+      "english": "Indoor",
+      "info": "SubCat: SPRTIndor"
+    },
+    {
+      "path": "运动\\户外运动",
+      "new_name": "【户外运动】Field",
+      "english": "Field",
+      "info": "SubCat: SPRTField"
+    },
+    {
+      "path": "运动\\水上运动",
+      "new_name": "【水上运动】Water",
+      "english": "Water",
+      "info": "SubCat: SPRTWatr"
+    },
+    {
+      "path": "运动\\球类运动",
+      "new_name": "【球类运动】Court",
+      "english": "Court",
+      "info": "SubCat: SPRTCourt"
+    },
+    {
+      "path": "运动\\田径",
+      "new_name": "【田径】Track & Field",
+      "english": "Track & Field",
+      "info": "SubCat: SPRTTrck"
+    },
+    {
+      "path": "通讯\\信号收发机",
+      "new_name": "【信号收发机】Transceiver",
+      "english": "Transceiver",
+      "info": "SubCat: COMTran"
+    },
+    {
+      "path": "通讯\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: COMMisc"
+    },
+    {
+      "path": "通讯\\干扰",
+      "new_name": "【干扰】Static",
+      "english": "Static",
+      "info": "SubCat: COMStatic"
+    },
+    {
+      "path": "通讯\\影视设备",
+      "new_name": "【影视设备】Audio Visual",
+      "english": "Audio Visual",
+      "info": "SubCat: COMAv"
+    },
+    {
+      "path": "通讯\\手机",
+      "new_name": "【手机】Cellphone",
+      "english": "Cellphone",
+      "info": "SubCat: COMCell"
+    },
+    {
+      "path": "通讯\\打字机",
+      "new_name": "【打字机】Typewriter",
+      "english": "Typewriter",
+      "info": "SubCat: COMType"
+    },
+    {
+      "path": "通讯\\收音机",
+      "new_name": "【收音机】Radio",
+      "english": "Radio",
+      "info": "SubCat: COMRadio"
+    },
+    {
+      "path": "通讯\\无线电",
+      "new_name": "【无线电】Telemetry",
+      "english": "Telemetry",
+      "info": "SubCat: COMTelm"
+    },
+    {
+      "path": "通讯\\照相机",
+      "new_name": "【照相机】Camera",
+      "english": "Camera",
+      "info": "SubCat: COMCam"
+    },
+    {
+      "path": "通讯\\电视机",
+      "new_name": "【电视机】Television",
+      "english": "Television",
+      "info": "SubCat: COMTv"
+    },
+    {
+      "path": "通讯\\电话",
+      "new_name": "【电话】Telephone",
+      "english": "Telephone",
+      "info": "SubCat: COMTelph"
+    },
+    {
+      "path": "通讯\\留声机",
+      "new_name": "【留声机】Phonograph",
+      "english": "Phonograph",
+      "info": "SubCat: COMPhono"
+    },
+    {
+      "path": "通讯\\麦克风",
+      "new_name": "【麦克风】Microphone",
+      "english": "Microphone",
+      "info": "SubCat: COMMic"
+    },
+    {
+      "path": "金属\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: METLMisc"
+    },
+    {
+      "path": "金属\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: METLImpt"
+    },
+    {
+      "path": "金属\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: METLHndl"
+    },
+    {
+      "path": "金属\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: METLFric"
+    },
+    {
+      "path": "金属\\断裂",
+      "new_name": "【断裂】Break",
+      "english": "Break",
+      "info": "SubCat: METLBrk"
+    },
+    {
+      "path": "金属\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: METLCrsh"
+    },
+    {
+      "path": "金属\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: METLMvmt"
+    },
+    {
+      "path": "金属\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: METLTonl"
+    },
+    {
+      "path": "钟表\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CLOCKMisc"
+    },
+    {
+      "path": "钟表\\嘀嗒",
+      "new_name": "【嘀嗒】Tick",
+      "english": "Tick",
+      "info": "SubCat: CLOCKTick"
+    },
+    {
+      "path": "钟表\\机械",
+      "new_name": "【机械】Mechanics",
+      "english": "Mechanics",
+      "info": "SubCat: CLOCKMech"
+    },
+    {
+      "path": "钟表\\风铃",
+      "new_name": "【风铃】Chime",
+      "english": "Chime",
+      "info": "SubCat: CLOCKChim"
+    },
+    {
+      "path": "钟铃\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: BELLMisc"
+    },
+    {
+      "path": "钟铃\\动物",
+      "new_name": "【动物】Animal",
+      "english": "Animal",
+      "info": "SubCat: BELLAnml"
+    },
+    {
+      "path": "钟铃\\大钟",
+      "new_name": "【大钟】Large",
+      "english": "Large",
+      "info": "SubCat: BELLLrg"
+    },
+    {
+      "path": "钟铃\\手铃",
+      "new_name": "【手铃】Handbell",
+      "english": "Handbell",
+      "info": "SubCat: BELLHand"
+    },
+    {
+      "path": "钟铃\\锣",
+      "new_name": "【锣】Gong",
+      "english": "Gong",
+      "info": "SubCat: BELLGong"
+    },
+    {
+      "path": "钟铃\\门铃",
+      "new_name": "【门铃】Doorbell",
+      "english": "Doorbell",
+      "info": "SubCat: BELLDoor"
+    },
+    {
+      "path": "链条\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CHAINMisc"
+    },
+    {
+      "path": "链条\\打中",
+      "new_name": "【打中】Impact",
+      "english": "Impact",
+      "info": "SubCat: CHAINImpt"
+    },
+    {
+      "path": "链条\\打破",
+      "new_name": "【打破】Break",
+      "english": "Break",
+      "info": "SubCat: CHAINBrk"
+    },
+    {
+      "path": "链条\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: CHAINHndl"
+    },
+    {
+      "path": "链条\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: CHAINMvmt"
+    },
+    {
+      "path": "门\\传统大门",
+      "new_name": "【传统大门】Dungeon",
+      "english": "Dungeon",
+      "info": "SubCat: DOORDungn"
+    },
+    {
+      "path": "门\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: DOORMisc"
+    },
+    {
+      "path": "门\\双开门",
+      "new_name": "【双开门】Swinging",
+      "english": "Swinging",
+      "info": "SubCat: DOORSwng"
+    },
+    {
+      "path": "门\\古董",
+      "new_name": "【古董】Antique",
+      "english": "Antique",
+      "info": "SubCat: DOORAntq"
+    },
+    {
+      "path": "门\\嘎吱",
+      "new_name": "【嘎吱】Creak",
+      "english": "Creak",
+      "info": "SubCat: DOORCreak"
+    },
+    {
+      "path": "门\\塑料门",
+      "new_name": "【塑料门】Plastic",
+      "english": "Plastic",
+      "info": "SubCat: DOORPlas"
+    },
+    {
+      "path": "门\\大门",
+      "new_name": "【大门】Gate",
+      "english": "Gate",
+      "info": "SubCat: DOORGate"
+    },
+    {
+      "path": "门\\家电",
+      "new_name": "【家电】Appliance",
+      "english": "Appliance",
+      "info": "SubCat: DOORAppl"
+    },
+    {
+      "path": "门\\敲门",
+      "new_name": "【敲门】Knock",
+      "english": "Knock",
+      "info": "SubCat: DOORKnck"
+    },
+    {
+      "path": "门\\旋转门",
+      "new_name": "【旋转门】Revolving",
+      "english": "Revolving",
+      "info": "SubCat: DOORRevl"
+    },
+    {
+      "path": "门\\木门",
+      "new_name": "【木门】Wood",
+      "english": "Wood",
+      "info": "SubCat: DOORWood"
+    },
+    {
+      "path": "门\\液压与气动",
+      "new_name": "【液压与气动】Hydraulic & Pneumatic",
+      "english": "Hydraulic & Pneumatic",
+      "info": "SubCat: DOORHydr"
+    },
+    {
+      "path": "门\\滑动门",
+      "new_name": "【滑动门】Sliding",
+      "english": "Sliding",
+      "info": "SubCat: DOORSlid"
+    },
+    {
+      "path": "门\\牢门",
+      "new_name": "【牢门】Prison",
+      "english": "Prison",
+      "info": "SubCat: DOORPrisn"
+    },
+    {
+      "path": "门\\特殊材料",
+      "new_name": "【特殊材料】Composite",
+      "english": "Composite",
+      "info": "SubCat: DOORComp"
+    },
+    {
+      "path": "门\\玻璃门",
+      "new_name": "【玻璃门】Glass",
+      "english": "Glass",
+      "info": "SubCat: DOORGlas"
+    },
+    {
+      "path": "门\\电动门",
+      "new_name": "【电动门】Electric",
+      "english": "Electric",
+      "info": "SubCat: DOORElec"
+    },
+    {
+      "path": "门\\石门",
+      "new_name": "【石门】Stone",
+      "english": "Stone",
+      "info": "SubCat: DOORSton"
+    },
+    {
+      "path": "门\\箱柜",
+      "new_name": "【箱柜】Cabinet",
+      "english": "Cabinet",
+      "info": "SubCat: DOORCab"
+    },
+    {
+      "path": "门\\金属门",
+      "new_name": "【金属门】Metal",
+      "english": "Metal",
+      "info": "SubCat: DOORMetl"
+    },
+    {
+      "path": "门\\锁具",
+      "new_name": "【锁具】Hardware",
+      "english": "Hardware",
+      "info": "SubCat: DOORHdwr"
+    },
+    {
+      "path": "门\\高科技",
+      "new_name": "【高科技】Hitech",
+      "english": "Hitech",
+      "info": "SubCat: DOORTech"
+    },
+    {
+      "path": "陶瓷\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: CERMMisc"
+    },
+    {
+      "path": "陶瓷\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: CERMImpt"
+    },
+    {
+      "path": "陶瓷\\打破",
+      "new_name": "【打破】Break",
+      "english": "Break",
+      "info": "SubCat: CERMBrk"
+    },
+    {
+      "path": "陶瓷\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: CERMHndl"
+    },
+    {
+      "path": "陶瓷\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: CERMFric"
+    },
+    {
+      "path": "陶瓷\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: CERMCrsh"
+    },
+    {
+      "path": "陶瓷\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: CERMMvmt"
+    },
+    {
+      "path": "陶瓷\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: CERMTonl"
+    },
+    {
+      "path": "雨\\塑料",
+      "new_name": "【塑料】Plastic",
+      "english": "Plastic",
+      "info": "SubCat: RAINPlas"
+    },
+    {
+      "path": "雨\\布料",
+      "new_name": "【布料】Cloth",
+      "english": "Cloth",
+      "info": "SubCat: RAINClth"
+    },
+    {
+      "path": "雨\\木质",
+      "new_name": "【木质】Wood",
+      "english": "Wood",
+      "info": "SubCat: RAINWood"
+    },
+    {
+      "path": "雨\\植物",
+      "new_name": "【植物】Vegetation",
+      "english": "Vegetation",
+      "info": "SubCat: RAINVege"
+    },
+    {
+      "path": "雨\\水",
+      "new_name": "【水】Water",
+      "english": "Water",
+      "info": "SubCat: RAINWatr"
+    },
+    {
+      "path": "雨\\水泥",
+      "new_name": "【水泥】Concrete",
+      "english": "Concrete",
+      "info": "SubCat: RAINConc"
+    },
+    {
+      "path": "雨\\玻璃",
+      "new_name": "【玻璃】Glass",
+      "english": "Glass",
+      "info": "SubCat: RAINGlas"
+    },
+    {
+      "path": "雨\\车内",
+      "new_name": "【车内】Interior",
+      "english": "Interior",
+      "info": "SubCat: RAINInt"
+    },
+    {
+      "path": "雨\\通用",
+      "new_name": "【通用】Rain",
+      "english": "Rain",
+      "info": "SubCat: RAIN"
+    },
+    {
+      "path": "雨\\金属",
+      "new_name": "【金属】Metal",
+      "english": "Metal",
+      "info": "SubCat: RAINMetl"
+    },
+    {
+      "path": "雪\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: SNOWMisc"
+    },
+    {
+      "path": "雪\\打击",
+      "new_name": "【打击】Impact",
+      "english": "Impact",
+      "info": "SubCat: SNOWImpt"
+    },
+    {
+      "path": "雪\\抓取",
+      "new_name": "【抓取】Handle",
+      "english": "Handle",
+      "info": "SubCat: SNOWHndl"
+    },
+    {
+      "path": "雪\\挤压",
+      "new_name": "【挤压】Friction",
+      "english": "Friction",
+      "info": "SubCat: SNOWFric"
+    },
+    {
+      "path": "雪\\碎片",
+      "new_name": "【碎片】Crash & Debris",
+      "english": "Crash & Debris",
+      "info": "SubCat: SNOWCrsh"
+    },
+    {
+      "path": "雪\\移动",
+      "new_name": "【移动】Movement",
+      "english": "Movement",
+      "info": "SubCat: SNOWMvmt"
+    },
+    {
+      "path": "风\\声音设计",
+      "new_name": "【声音设计】Designed",
+      "english": "Designed",
+      "info": "SubCat: WINDDsgn"
+    },
+    {
+      "path": "风\\室内",
+      "new_name": "【室内】Interior",
+      "english": "Interior",
+      "info": "SubCat: WINDInt"
+    },
+    {
+      "path": "风\\植物",
+      "new_name": "【植物】Vegetation",
+      "english": "Vegetation",
+      "info": "SubCat: WINDVege"
+    },
+    {
+      "path": "风\\汹涌澎湃",
+      "new_name": "【汹涌澎湃】Turbulent",
+      "english": "Turbulent",
+      "info": "SubCat: WINDTurb"
+    },
+    {
+      "path": "风\\通用",
+      "new_name": "【通用】Wind",
+      "english": "Wind",
+      "info": "SubCat: WIND"
+    },
+    {
+      "path": "风\\阵风",
+      "new_name": "【阵风】Gust",
+      "english": "Gust",
+      "info": "SubCat: WINDGust"
+    },
+    {
+      "path": "风\\音乐性",
+      "new_name": "【音乐性】Tonal",
+      "english": "Tonal",
+      "info": "SubCat: WINDTonl"
+    },
+    {
+      "path": "食物\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: FOODMisc"
+    },
+    {
+      "path": "食物\\厨具",
+      "new_name": "【厨具】Kitchenware",
+      "english": "Kitchenware",
+      "info": "SubCat: FOODKware"
+    },
+    {
+      "path": "食物\\吃东西",
+      "new_name": "【吃东西】Eating",
+      "english": "Eating",
+      "info": "SubCat: FOODEat"
+    },
+    {
+      "path": "食物\\喝",
+      "new_name": "【喝】Drinking",
+      "english": "Drinking",
+      "info": "SubCat: FOODDrnk"
+    },
+    {
+      "path": "食物\\泼洒",
+      "new_name": "【泼洒】Pour",
+      "english": "Pour",
+      "info": "SubCat: FOODPour"
+    },
+    {
+      "path": "食物\\烹饪",
+      "new_name": "【烹饪】Cooking",
+      "english": "Cooking",
+      "info": "SubCat: FOODCook"
+    },
+    {
+      "path": "食物\\玻璃器皿",
+      "new_name": "【玻璃器皿】Glassware",
+      "english": "Glassware",
+      "info": "SubCat: FOODGware"
+    },
+    {
+      "path": "食物\\食材",
+      "new_name": "【食材】Ingredients",
+      "english": "Ingredients",
+      "info": "SubCat: FOODIngr"
+    },
+    {
+      "path": "食物\\餐具",
+      "new_name": "【餐具】Tableware",
+      "english": "Tableware",
+      "info": "SubCat: FOODTware"
+    },
+    {
+      "path": "马达\\伺服电机",
+      "new_name": "【伺服电机】Servo",
+      "english": "Servo",
+      "info": "SubCat: MOTRSrvo"
+    },
+    {
+      "path": "马达\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MOTRMisc"
+    },
+    {
+      "path": "马达\\内燃机",
+      "new_name": "【内燃机】Combustion",
+      "english": "Combustion",
+      "info": "SubCat: MOTRComb"
+    },
+    {
+      "path": "马达\\涡轮",
+      "new_name": "【涡轮】Turbine",
+      "english": "Turbine",
+      "info": "SubCat: MOTRTurb"
+    },
+    {
+      "path": "马达\\电动",
+      "new_name": "【电动】Electric",
+      "english": "Electric",
+      "info": "SubCat: MOTRElec"
+    },
+    {
+      "path": "马达\\老式",
+      "new_name": "【老式】Antique",
+      "english": "Antique",
+      "info": "SubCat: MOTRAntq"
+    },
+    {
+      "path": "魔法\\元素",
+      "new_name": "【元素】Elemental",
+      "english": "Elemental",
+      "info": "SubCat: MAGElem"
+    },
+    {
+      "path": "魔法\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: MAGMisc"
+    },
+    {
+      "path": "魔法\\咒语",
+      "new_name": "【咒语】Spell",
+      "english": "Spell",
+      "info": "SubCat: MAGSpel"
+    },
+    {
+      "path": "魔法\\嘭",
+      "new_name": "【嘭】Poof",
+      "english": "Poof",
+      "info": "SubCat: MAGPoof"
+    },
+    {
+      "path": "魔法\\天使",
+      "new_name": "【天使】Angelic",
+      "english": "Angelic",
+      "info": "SubCat: MAGAngl"
+    },
+    {
+      "path": "魔法\\邪恶",
+      "new_name": "【邪恶】Evil",
+      "english": "Evil",
+      "info": "SubCat: MAGEvil"
+    },
+    {
+      "path": "魔法\\闪耀",
+      "new_name": "【闪耀】Shimmer",
+      "english": "Shimmer",
+      "info": "SubCat: MAGShim"
+    },
+    {
+      "path": "鸟类\\乌鸦",
+      "new_name": "【乌鸦】Crow",
+      "english": "Crow",
+      "info": "SubCat: BIRDCrow"
+    },
+    {
+      "path": "鸟类\\其它",
+      "new_name": "【其它】Misc",
+      "english": "Misc",
+      "info": "SubCat: BIRDMisc"
+    },
+    {
+      "path": "鸟类\\家禽",
+      "new_name": "【家禽】Fowl",
+      "english": "Fowl",
+      "info": "SubCat: BIRDFowl"
+    },
+    {
+      "path": "鸟类\\水鸟",
+      "new_name": "【水鸟】Wading",
+      "english": "Wading",
+      "info": "SubCat: BIRDWade"
+    },
+    {
+      "path": "鸟类\\海鸟",
+      "new_name": "【海鸟】Sea",
+      "english": "Sea",
+      "info": "SubCat: BIRDSea"
+    },
+    {
+      "path": "鸟类\\热带",
+      "new_name": "【热带】Tropical",
+      "english": "Tropical",
+      "info": "SubCat: BIRDTrop"
+    },
+    {
+      "path": "鸟类\\猛禽",
+      "new_name": "【猛禽】Bird Of Prey",
+      "english": "Bird Of Prey",
+      "info": "SubCat: BIRDPrey"
+    },
+    {
+      "path": "鸟类\\鸣鸟",
+      "new_name": "【鸣鸟】Songbird",
+      "english": "Songbird",
+      "info": "SubCat: BIRDSong"
+    }
+  ],
+  "unmatched": []
+}
